@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "The Biology of Happiness: The Link Between Physical Activity and Mental Well-being",
       "description": "An interdisciplinary review of the neurochemical impacts of exercise on the human brain, focusing on anxiety reduction, depression management, and cognitive resilience at LifeCare Hospitals.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/B4ciKttWhiqm3kkj.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Wellness & Physio Board",

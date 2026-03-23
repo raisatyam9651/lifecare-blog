@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Managing Chronic Conditions: Practical Tips for Living Well with Diabetes in Kenya",
       "description": "A clinical roadmap for diabetes management in the Kenyan context, focusing on glycemic control, nutritional adjustment, lifestyle resilience, and complications prevention at LifeCare Hospitals.",
-      "image": "/blog/img/diabetes-management-guide.jpg",  
+      "image": "/blog/img/images/gLmqSvrDm4BlfMxU.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Chronic Care Board",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/diabetes-management-guide.jpg"
+                                            src="/blog/img/images/gLmqSvrDm4BlfMxU.webp"
                                             alt="Managing Chronic Conditions Practical Tips for Living Well with Diabetes in Kenya">
                                     </div>
                                 </div>

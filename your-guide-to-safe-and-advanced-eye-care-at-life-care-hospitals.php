@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Advanced Eye Care: A Comprehensive Guide to Ocular Excellence at LifeCare",
       "description": "A detailed clinical overview of ophthalmological services at LifeCare Hospitals, exploring advanced micro-surgical techniques for cataracts, glaucoma management, and laser diagnostics in Kenya.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/i3Y21hyLa5pJQqEo.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Ophthalmology Board",

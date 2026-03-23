@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Mind Matters: A Career Guide to Psychiatry in Kenya",
       "description": "Explaining the rigorous medical and specialty training required to practice psychiatry in Kenya, highlighting the difference from psychology and the importance of mental health experts at LifeCare Hospitals.",
-      "image": "/blog/img/expert-physiotherapy.png",  
+      "image": "/blog/img/images/E37xp66Kh2BNBOivMaeO3.jpg",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Mental Health Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/expert-physiotherapy.png"
+                                            src="/blog/img/images/E37xp66Kh2BNBOivMaeO3.jpg"
                                             alt="Becoming a Psychiatrist and Mental Health Expert">
                                     </div>
                                 </div>

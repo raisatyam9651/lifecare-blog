@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "The Science of a Radiant Smile: Discover the Secret to a Lifetime of White Teeth",
       "description": "A clinical guide to dental aesthetics in Kenya, covering extrinsic vs intrinsic staining, professional whitening technologies, and long-term oral hygiene protocols at LifeCare Hospitals.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/LV7NVST8qDk8gjNH.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Dental Board",

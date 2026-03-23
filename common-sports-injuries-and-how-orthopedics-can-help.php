@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Common Sports Injuries and How Orthopedics Can Help",
       "description": "An expert look at athletic injuries, diagnostic methods, and advanced orthopedic treatments available at LifeCare Hospitals.",
-      "image": "/blog/img/sports-orthopedics.jpg",  
+      "image": "/blog/img/images/Qx3yF0hMEBIY4Q9M.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Orthopedic Team",
@@ -157,7 +157,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/sports-orthopedics.jpg"
+                                            src="/blog/img/images/Qx3yF0hMEBIY4Q9M.webp"
                                             alt="Orthopedic Treatment for Sports Injuries">
                                     </div>
                                 </div>

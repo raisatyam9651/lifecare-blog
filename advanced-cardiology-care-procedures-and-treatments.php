@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Advanced Cardiology Care: Procedures and Treatments",
       "description": "A comprehensive overview of modern cardiac interventions, diagnostic technology, and surgical procedures at LifeCare Hospitals.",
-      "image": "/blog/img/cardiology-care.png",  
+      "image": "/blog/img/images/obAwLyU43Vg4FgxS.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Hospitals Cardiology Board",
@@ -177,7 +177,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/cardiology-care.png"
+                                            src="/blog/img/images/obAwLyU43Vg4FgxS.webp"
                                             alt="Advanced Cardiology Care Procedures and Treatments">
                                     </div>
                                 </div>

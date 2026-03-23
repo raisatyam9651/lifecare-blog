@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Beyond the Body: How Regular Movement Transforms Your Mental Well-being",
       "description": "Explaining the biological and psychological link between physical activity and mental health, highlighting the role of endorphins, stress reduction, and the comprehensive wellness approach at LifeCare Hospitals Kenya.",
-      "image": "/blog/img/mental-health-kenya.png",  
+      "image": "/blog/img/images/whMv6a8eQejBaBsd.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Wellness Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/mental-health-kenya.png"
+                                            src="/blog/img/images/whMv6a8eQejBaBsd.webp"
                                             alt="Mind-Body Power and Regular Exercise">
                                     </div>
                                 </div>

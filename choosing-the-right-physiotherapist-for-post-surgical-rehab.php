@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Choosing the Right Physiotherapist for Post-Surgical Rehab: A Guide to Recovery",
       "description": "A comprehensive guide for patients navigating post-operative physical therapy, outlining the criteria for selecting qualified therapists and the importance of clinical specialization in Kenya.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/WSdtgpULPObEtwui.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Rehabilitation Team",

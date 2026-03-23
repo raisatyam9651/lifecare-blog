@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Breast Cancer Treatment in Kenya: A Comprehensive Guide to Options and Care",
       "description": "An expert overview of breast cancer treatment modalities in Kenya, detailing surgical options, systemic therapies, and the multidisciplinary approach at LifeCare Hospitals.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/j0kPtycrhHOFNQXa.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Clinical Oncology Board",

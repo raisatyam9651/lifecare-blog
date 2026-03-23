@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Feeding the Future: Essential Nutrition for Kenyan Children",
       "description": "A comprehensive guide to child nutrition in the Kenyan context, explaining the vital role of vitamins, minerals, and traditional staples in supporting physical and cognitive development, by LifeCare Hospitals Kenya.",
-      "image": "/blog/img/maternal-child-health.jpg",  
+      "image": "/blog/img/images/axaaMoA1m8pB7a6B.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Pediatrics Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/maternal-child-health.jpg"
+                                            src="/blog/img/images/axaaMoA1m8pB7a6B.webp"
                                             alt="Nutrition for Growing Children in Kenya">
                                     </div>
                                 </div>

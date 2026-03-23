@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Cancer Prevention: Steps You Can Take Today",
       "description": "A comprehensive guide on daily habits and medical screenings that can significantly reduce your risk of cancer.",
-      "image": "/blog/img/detecting-breast-cancer.jpg",  
+      "image": "/blog/img/images/20QB5PbL257rdbJ6.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Oncology Team",
@@ -157,7 +157,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/detecting-breast-cancer.jpg"
+                                            src="/blog/img/images/20QB5PbL257rdbJ6.webp"
                                             alt="Cancer Prevention and Screening">
                                     </div>
                                 </div>

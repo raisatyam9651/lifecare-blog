@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Empowerment Through Movement: Tailored Fitness Routines for Every Stage of a Woman's Life",
       "description": "A clinical guide to female-centric exercise physiology, addressing bone density, hormonal fluctuations, and functional fitness from puberty to geriatric wellness at LifeCare Hospitals.",
-      "image": "/blog/img/womens-fitness.jpg",  
+      "image": "/blog/img/images/FQexXjurXsLLmpt1.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Women's Fitness Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/womens-fitness.jpg"
+                                            src="/blog/img/images/FQexXjurXsLLmpt1.webp"
                                             alt="Physical Fitness Tailored Routines for Women of All Ages">
                                     </div>
                                 </div>

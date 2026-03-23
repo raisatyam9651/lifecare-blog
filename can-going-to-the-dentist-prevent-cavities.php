@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Can Going to the Dentist Prevent Cavities? The Science of Prevention",
       "description": "A comprehensive analysis of preventive dentistry, detailing how professional cleanings, fluoride treatments, and early diagnosis at the dentist can proactively stop tooth decay.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/uFXMdEha0RoQSXzZ.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Dental Board",

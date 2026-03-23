@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Dental SOS: Your Guide to Getting Fast Care for Tooth Emergencies",
       "description": "Explaining what constitutes a dental emergency and the rapid access care available at LifeCare Hospitals Kenya, including first-aid tips for common dental traumas.",
-      "image": "/blog/img/dental-care-tips.png",  
+      "image": "/blog/img/images/YVbq0lRHY7hptRWZ.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Dental Team",
@@ -127,7 +127,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/dental-care-tips.png"
+                                            src="/blog/img/images/YVbq0lRHY7hptRWZ.webp"
                                             alt="Emergency Dentist and Dental Trauma Care">
                                     </div>
                                 </div>

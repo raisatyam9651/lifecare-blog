@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Preventing Tooth Decay: Clinical Strategies for a Lifetime Smile",
       "description": "A comprehensive dental health guide by LifeCare Hospitals, detailing the etiology of dental caries, the biomechanics of plaque biofilm management, and the clinical efficacy of preventative dentistry in Kenya.",
-      "image": "/blog/img/tooth-decay-prevention.jpg",  
+      "image": "/blog/img/images/KlsUHgoeF79Zpxty.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Dental Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/tooth-decay-prevention.jpg"
+                                            src="/blog/img/images/KlsUHgoeF79Zpxty.webp"
                                             alt="Preventing Tooth Decay Tips from Expert Dentists">
                                     </div>
                                 </div>

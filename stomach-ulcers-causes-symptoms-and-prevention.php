@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Understanding Peptic Ulcers: Myths, Facts, and Finding Relief",
       "description": "An essential guide for individuals suffering from digestive pain, explaining the role of H. pylori and NSAIDs in ulcer development, common warning signs, and the advanced diagnostic and treatment options at LifeCare Hospitals Kenya.",
-      "image": "/blog/img/gastroscopy-colonoscopy.png",  
+      "image": "/blog/img/images/kSbab0lpVdHbhuAL.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Gastroenterology Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/gastroscopy-colonoscopy.png"
+                                            src="/blog/img/images/kSbab0lpVdHbhuAL.webp"
                                             alt="Gastrointestinal Health and Ulcer Care">
                                     </div>
                                 </div>

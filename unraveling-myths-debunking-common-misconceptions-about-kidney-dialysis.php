@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Dialysis: Hope Over Fear—Debunking Common Kidney Misconceptions",
       "description": "A clinical review of hemodialysis and peritoneal dialysis in Kenya, addressing patient misconceptions, quality of life metrics, and renal replacement therapy facts at LifeCare Hospitals.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/xMzpG80x3UaM7O8M.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Nephrology Board",

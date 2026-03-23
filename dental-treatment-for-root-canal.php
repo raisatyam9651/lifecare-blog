@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Dental Treatment for Root Canal: Saving Your Smile",
       "description": "A comprehensive guide to understanding root canal therapy, debunking common myths about pain, and explaining why it's often the best choice for preserving a damaged tooth.",
-      "image": "/blog/img/dental-xray-safe.jpg",  
+      "image": "/blog/img/images/qHdlqUM95ugLcqQM.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Dental Team",
@@ -157,7 +157,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/dental-xray-safe.jpg"
+                                            src="/blog/img/images/qHdlqUM95ugLcqQM.webp"
                                             alt="Diagnostic Imaging for Root Canal Therapy">
                                     </div>
                                 </div>

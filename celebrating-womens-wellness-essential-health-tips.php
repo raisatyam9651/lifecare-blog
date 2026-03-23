@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Empower Her Health: A Comprehensive Guide to Women's Wellness in Kenya",
       "description": "A life-stage specific review of women's health needs, covering preventative screenings, reproductive wellness, and metabolic health management at LifeCare Hospitals.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/lk8Zs8Y8baWb4mdY.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Women's Health Board",

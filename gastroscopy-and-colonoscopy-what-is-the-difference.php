@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Understanding Gastroscopy and Colonoscopy: A Guide to Digestive Diagnostics",
       "description": "Explaining the technical and clinical differences between gastroscopy and colonoscopy, their roles in cancer screening, and what patients can expect at LifeCare Hospitals Kenya.",
-      "image": "/blog/img/general-surgery-guide.jpg",  
+      "image": "/blog/img/images/STNMQfvjwKtDQ2Qe.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Gastroenterology Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/general-surgery-guide.jpg"
+                                            src="/blog/img/images/STNMQfvjwKtDQ2Qe.webp"
                                             alt="Gastroenterology Diagnostic Procedures">
                                     </div>
                                 </div>

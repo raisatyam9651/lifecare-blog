@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "CT Scan vs MRI: Which is Best?",
       "description": "An expert comparison of CT scans and MRIs, explaining their uses, technology, and how to decide which imaging method is right for you.",
-      "image": "/blog/img/mri-benefits.png",  
+      "image": "/blog/img/images/I3UivvfjdPreM9R5.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Radiology Team",
@@ -157,7 +157,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/mri-benefits.png"
+                                            src="/blog/img/images/I3UivvfjdPreM9R5.webp"
                                             alt="CT Scan and MRI Comparison">
                                     </div>
                                 </div>

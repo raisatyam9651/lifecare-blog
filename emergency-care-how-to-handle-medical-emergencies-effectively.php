@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Emergency Care: A Practical Guide to Handling Medical Emergencies",
       "description": "An essential life-saving guide on how to recognize and respond to common medical emergencies, emphasizing the critical importance of rapid action and LifeCare Hospitals' world-class emergency services.",
-      "image": "/blog/img/medical-emergency-guide.jpg",  
+      "image": "/blog/img/images/AfoPMsFof5RR50tL.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Emergency Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/medical-emergency-guide.jpg"
+                                            src="/blog/img/images/AfoPMsFof5RR50tL.webp"
                                             alt="Life-Saving Emergency Care Steps">
                                     </div>
                                 </div>

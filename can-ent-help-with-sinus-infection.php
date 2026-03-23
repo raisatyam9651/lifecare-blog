@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Can an ENT Help with Sinus Infection? Advanced Relief for Sinusitis",
       "description": "A clinical guide on the role of Ear, Nose, and Throat (ENT) specialists in treating acute and chronic sinus infections, detailing diagnostic tools and therapeutic options in Kenya.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/13J1cONRapsgTVHj.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare ENT Department",

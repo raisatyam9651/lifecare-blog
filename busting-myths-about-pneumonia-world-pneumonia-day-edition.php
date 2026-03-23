@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Busting Myths About Pneumonia: World Pneumonia Day Edition",
       "description": "An educational clinical resource debunking common misconceptions about pneumonia, including transmission, prevention, and treatment protocols in Kenya.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/xYL1XThJfAR2yzsc.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Respiratory Health Board",

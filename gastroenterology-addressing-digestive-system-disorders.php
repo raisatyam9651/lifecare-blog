@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Digestive Health Decoded: How Gastroenterology Addresses Common Stomach and Gut Issues",
       "description": "An overview of the gastroenterology department at LifeCare Hospitals Kenya, highlighting the diagnosis and treatment of conditions such as GERD, inflammatory bowel disease, and the role of endoscopic diagnostics.",
-      "image": "/blog/img/gastroscopy-colonoscopy.png",  
+      "image": "/blog/img/images/dbyhjveS5xAPFj4k.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare GI Specialists",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/gastroscopy-colonoscopy.png"
+                                            src="/blog/img/images/dbyhjveS5xAPFj4k.webp"
                                             alt="Gastroenterology and Digestive Health">
                                     </div>
                                 </div>

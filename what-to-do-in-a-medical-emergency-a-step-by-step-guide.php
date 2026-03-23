@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "What to Do in a Medical Emergency: A Step-by-Step Guide",
       "description": "A survival guide for medical crises, detailing the DRABC protocol, identification of life-threatening conditions, and emergency navigation in the Kenyan context.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/GAkcZgiBMH2I7knl.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Emergency Medicine Board",

@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Breast Cancer Awareness: Why Early Detection is the Ultimate Key to Survival",
       "description": "A deep clinical dive into breast cancer screening modalities in Kenya, exploring mammography vs. ultrasound, the importance of breast self-exams, and advanced oncology pathways at LifeCare Hospitals.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/APVpusOH47rrV0vb.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Oncology Board",

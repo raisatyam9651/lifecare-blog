@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Engineering for the Body: The Science Behind Orthopedic Implants",
       "description": "An educational guide on the materials and manufacturing processes of medical implants used in orthopedic surgeries, highlighting biocompatibility and durability standards maintained at LifeCare Hospitals Kenya.",
-      "image": "/blog/img/expert-physiotherapy.png",  
+      "image": "/blog/img/images/BRpjsAxvwRmbqYIu.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Orthopedic Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/expert-physiotherapy.png"
+                                            src="/blog/img/images/BRpjsAxvwRmbqYIu.webp"
                                             alt="Science of Orthopedic Medical Implants">
                                     </div>
                                 </div>

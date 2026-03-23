@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Do Dentists Fill Cavities in Baby Teeth? Why It Matters",
       "description": "Explaining the critical importance of treating tooth decay in children's primary teeth and the long-term impact on their oral and overall health.",
-      "image": "/blog/img/tooth-decay-prevention.jpg",  
+      "image": "/blog/img/images/eGXsgO0JtK1ZO4rx.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Pediatric Team",
@@ -142,7 +142,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/tooth-decay-prevention.jpg"
+                                            src="/blog/img/images/eGXsgO0JtK1ZO4rx.webp"
                                             alt="Pediatric Dental Care and Prevention">
                                     </div>
                                 </div>

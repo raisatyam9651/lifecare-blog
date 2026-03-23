@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Building a Strong Heart: Proactive Living Tips for Cardiovascular Health",
       "description": "A comprehensive lifestyle guide to maintaining heart health, covering physical activity, weight management, and essential screening, designed by the cardiology experts at LifeCare Hospitals Kenya.",
-      "image": "/blog/img/preventive-cardiology.jpg",  
+      "image": "/blog/img/images/chevuljt4A3MU5c1.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Cardiology Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/preventive-cardiology.jpg"
+                                            src="/blog/img/images/chevuljt4A3MU5c1.webp"
                                             alt="Living a Heart-Healthy Life">
                                     </div>
                                 </div>

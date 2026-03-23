@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Can MRI Results Be Seen Immediately?",
       "description": "An insider's guide to the diagnostic workflow of Magnetic Resonance Imaging, explaining the timeline from scanning to final radiologist reporting.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/VidC1UVfJSi5lJff.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Radiology Specialist Board",

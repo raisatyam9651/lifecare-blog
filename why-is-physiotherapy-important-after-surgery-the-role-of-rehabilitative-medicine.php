@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Why Post-Surgical Physiotherapy is Essential: The Science of Recovery",
       "description": "A clinical exploration of post-operative rehabilitative protocols at LifeCare Hospitals, detailing the physiological necessity of early mobilization, scar tissue modulation, and neuromuscular re-education in patient recovery.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/l3RVn4n2Ux7xowC6.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Rehabilitative Medicine Board",

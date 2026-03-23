@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Is General Surgery Safe? Understanding Risks and Advanced Safety Protocols",
       "description": "A comprehensive clinical overview of surgical safety at LifeCare Hospitals, detailing anesthesia advancements, infection control measures, and the benefits of modern operative techniques in Kenya.",
-      "image": "/blog/img/general-surgery-safety.jpg",  
+      "image": "/blog/img/images/7u5vgNGoQYLWnVlb.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Surgical Excellence Board",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/general-surgery-safety.jpg"
+                                            src="/blog/img/images/7u5vgNGoQYLWnVlb.webp"
                                             alt="Is General Surgery Safe LifeCare Hospitals Kenya">
                                     </div>
                                 </div>

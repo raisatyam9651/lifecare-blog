@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Early Detection: The Silent Hero in the Fight Against Breast Cancer",
       "description": "A clinical roadmap for breast health awareness in Kenya, covering screening modalities, diagnostic protocols, and the impact of early intervention on survival rates at LifeCare Hospitals.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/WmzenCtE4di06FKz.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Oncology Board",

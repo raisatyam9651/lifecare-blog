@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Managing Hypertension: Expert Guide to Natural Blood Pressure Control",
       "description": "A detailed clinical exploration of hypertension management, covering dietary shifts, stress reduction techniques, and exercise protocols to naturally regulate blood pressure in Kenya.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/WjZ5kuWRyHHPROHz.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Cardiology Team",

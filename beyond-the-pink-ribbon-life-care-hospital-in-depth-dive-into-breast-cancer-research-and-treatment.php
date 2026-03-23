@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Beyond the Pink Ribbon: Breast Cancer Care & Research",
       "description": "An intensive look at modern oncology strategies for breast cancer, focusing on advanced diagnostics and multidimensional treatment at LifeCare Hospitals.",
-      "image": "/blog/img/breast-cancer-research.png",  
+      "image": "/blog/img/images/UAp7AiIgSrQRSjbk.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Oncology Specialist Board",
@@ -169,7 +169,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/breast-cancer-research.png"
+                                            src="/blog/img/images/UAp7AiIgSrQRSjbk.webp"
                                             alt="Breast Cancer Research and Treatment at LifeCare Hospitals">
                                     </div>
                                 </div>

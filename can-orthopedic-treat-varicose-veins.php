@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Can an Orthopedic Surgeon Treat Varicose Veins? Clarifying Leg Pain Care",
       "description": "An educational clinical comparison between orthopedic and vascular medical specialties, explaining the treatment protocols for varicose veins and when to see a specific specialist in Kenya.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/F3FJzc4BAF94CJ0j.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Clinical Specialist Board",

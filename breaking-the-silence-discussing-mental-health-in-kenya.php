@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Breaking the Silence: Discussing Mental Health in Kenya",
       "description": "An in-depth look at the cultural and social aspects of mental health in Kenya, and how we can work together to break the stigma.",
-      "image": "/blog/img/mental-wellness-stigma.png",  
+      "image": "/blog/img/images/nXfrauN6y5lrUZRy.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Hospitals Psychology Team",
@@ -157,7 +157,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/mental-wellness-stigma.png"
+                                            src="/blog/img/images/nXfrauN6y5lrUZRy.webp"
                                             alt="Breaking the Silence on Mental Health">
                                     </div>
                                 </div>

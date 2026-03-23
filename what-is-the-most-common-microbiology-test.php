@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "What Is the Most Common Microbiology Test?",
       "description": "An analytical review of diagnostic microbiology, focusing on the prevalence of Urine Culture and Sensitivity testing and its role in modern clinical medicine.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/6MwWwd46wdw9IvNU.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Laboratory Board",

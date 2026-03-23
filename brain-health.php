@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Brain Health: Protecting Your Cognitive Longevity",
       "description": "An in-depth guide on neurological well-being, focusing on prevention, diagnostic excellence, and lifestyle strategies for maintaining a sharp and healthy brain.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/LahRVaFAgXfquYkr.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Neurology Specialist Board",

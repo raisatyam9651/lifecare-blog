@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Is There Any Side Effects of CT Scan?",
       "description": "An exhaustive clinical guide to the potential risks and side effects associated with Computed Tomography (CT) scans, highlighting modern safety standards in radiology.",
-      "image": "/blog/img/ct-scan-side-effects.jpg",  
+      "image": "/blog/img/images/3BVg70H3HwnV1cUo.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Radiology Specialist Board",
@@ -164,7 +164,7 @@ if (!function_exists('base_url')) {
               <article class="post cmt-blog-single clearfix">
                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                   <div class="cmt-post-featured">
-                    <img width="1170" height="524" class="img-fluid" src="/blog/img/ct-scan-side-effects.jpg"
+                    <img width="1170" height="524" class="img-fluid" src="/blog/img/images/3BVg70H3HwnV1cUo.webp"
                       alt="CT Scan Risks and Side Effects at LifeCare">
                   </div>
                 </div>

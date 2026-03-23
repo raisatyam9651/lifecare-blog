@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Does Physiotherapy Help Arthritic Knees? Benefits and Techniques",
       "description": "Explaining the vital role of physiotherapy in managing knee osteoarthritis, focusing on muscle strengthening, pain reduction, and improving joint function at LifeCare Hospitals.",
-      "image": "/blog/img/physiotherapy-pain.png",  
+      "image": "/blog/img/images/ZemqUvMR5gsdiJOI.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Physiotherapy Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/physiotherapy-pain.png"
+                                            src="/blog/img/images/ZemqUvMR5gsdiJOI.webp"
                                             alt="Physiotherapy for Knee Pain Relief">
                                     </div>
                                 </div>

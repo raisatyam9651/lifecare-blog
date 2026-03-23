@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Demystifying Hepatitis: Types, Symptoms, and Liver Protection",
       "description": "An educational guide to hepatitis, explaining the differences between viral types (A, B, C), the importance of screening, and the expert liver health management available at LifeCare Hospitals Kenya.",
-      "image": "/blog/img/hepatitis-liver-disease.png",  
+      "image": "/blog/img/images/Gk1NfavFFNEw6wOV.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Gastroenterology Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/hepatitis-liver-disease.png"
+                                            src="/blog/img/images/Gk1NfavFFNEw6wOV.webp"
                                             alt="Liver Health and Hepatitis Education">
                                     </div>
                                 </div>

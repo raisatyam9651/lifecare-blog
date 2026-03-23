@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Diet and Lifestyle Changes for Effective Constipation Relief",
       "description": "A practical guide to improving bowel regularity through high-fiber nutrition, hydration, and positive lifestyle habits, featuring insights from LifeCare Hospitals' digestive health experts.",
-      "image": "/blog/img/kenyan-foods-immunity.jpg",  
+      "image": "/blog/img/images/GYmWtCMYqL5fp3DW.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Gastroenterology Team",
@@ -157,7 +157,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/kenyan-foods-immunity.jpg"
+                                            src="/blog/img/images/GYmWtCMYqL5fp3DW.webp"
                                             alt="Healthy Foods for Digestive Regularity">
                                     </div>
                                 </div>

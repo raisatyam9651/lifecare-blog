@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "A Guide to Urological Wellness: Proactive Care for Every Stage of Life",
       "description": "Comprehensive advice on maintaining urological health, recognizing early symptoms of issues like UTIs and kidney stones, and the advanced urological treatments available at LifeCare Hospitals Kenya.",
-      "image": "/blog/img/urology-renal-care-LifeCare.jpg",  
+      "image": "/blog/img/images/uvwijgyeDcp9kv6F.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Urology Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/urology-renal-care-LifeCare.jpg"
+                                            src="/blog/img/images/uvwijgyeDcp9kv6F.webp"
                                             alt="Specialized Urology Care">
                                     </div>
                                 </div>

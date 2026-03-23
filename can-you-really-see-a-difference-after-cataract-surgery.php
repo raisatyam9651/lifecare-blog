@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Can You Really See a Difference After Cataract Surgery? A Transforming Journey",
       "description": "A clinical overview of cataract surgery outcomes, detailing the immediate and long-term visual improvements, intraocular lens (IOL) options, and postoperative care in Kenya.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/fuyeRlaIsarfeQAY.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Ophthalmology Board",

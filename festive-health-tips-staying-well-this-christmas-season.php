@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Staying Well This Christmas: Festive Health Tips for the Whole Family",
       "description": "A practical guide to enjoying the holiday season in Kenya while prioritizing nutrition, safety, and mental well-being, provided by the experts at LifeCare Hospitals.",
-      "image": "/blog/img/preventive-healthcare.jpg",  
+      "image": "/blog/img/images/IjFjwTYpZTpmEM6O.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Wellness Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/preventive-healthcare.jpg"
+                                            src="/blog/img/images/IjFjwTYpZTpmEM6O.webp"
                                             alt="Staying Healthy During Christmas Season">
                                     </div>
                                 </div>

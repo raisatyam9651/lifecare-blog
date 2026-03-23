@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "All You Need to Know About Liver Diseases",
       "description": "Comprehensive information on liver health, including common disorders, diagnostic technology like FibroScan, and prevention strategies.",
-      "image": "/blog/img/liver-health.png",  
+      "image": "/blog/img/images/YWqMlKQcLzx6VZmt.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Hospitals Gastroenterology Team",
@@ -175,7 +175,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/liver-health.png"
+                                            src="/blog/img/images/YWqMlKQcLzx6VZmt.webp"
                                             alt="All You Need to Know About Liver Diseases">
                                     </div>
                                 </div>

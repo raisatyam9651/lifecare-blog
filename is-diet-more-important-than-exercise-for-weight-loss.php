@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Diet or Exercise? Solving the Weight Loss Puzzle for Long-Term Success",
       "description": "An evidence-based look at the roles of nutrition and physical activity in weight management, providing a balanced perspective and practical advice from the medical team at LifeCare Hospitals Kenya.",
-      "image": "/blog/img/preventive-healthcare.jpg",  
+      "image": "/blog/img/images/t4CRH1ptYODfly33.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Wellness Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/preventive-healthcare.jpg"
+                                            src="/blog/img/images/t4CRH1ptYODfly33.webp"
                                             alt="Balanced Weight Loss Factors">
                                     </div>
                                 </div>

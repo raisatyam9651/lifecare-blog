@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "How Do Ambulance Services Work?",
       "description": "An indepth look into the infrastructure of emergency medical services, from dispatch logistics to advanced life support technology within modern ambulances.",
-      "image": "/blog/img/ambulance-emergency-guide.jpg",  
+      "image": "/blog/img/images/WhA20OHe5fQh0PG6.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Emergency Medicine Board",
@@ -171,7 +171,7 @@ if (!function_exists('base_url')) {
               <article class="post cmt-blog-single clearfix">
                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                   <div class="cmt-post-featured">
-                    <img width="1170" height="524" class="img-fluid" src="/blog/img/ambulance-emergency-guide.jpg"
+                    <img width="1170" height="524" class="img-fluid" src="/blog/img/images/WhA20OHe5fQh0PG6.webp"
                       alt="LifeCare Emergency Ambulance Services Kenya">
                   </div>
                 </div>

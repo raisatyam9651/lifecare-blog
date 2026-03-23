@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Common Childhood Illnesses and Their Treatments",
       "description": "A parent's guide to managing everyday health issues in children, from viral infections to digestive problems.",
-      "image": "/blog/img/pediatric-care.jpg",  
+      "image": "/blog/img/images/UEOgZcDMgLvqLJFS.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Pediatrics Team",
@@ -157,7 +157,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/pediatric-care.jpg"
+                                            src="/blog/img/images/UEOgZcDMgLvqLJFS.webp"
                                             alt="Treating Common Childhood Illnesses">
                                     </div>
                                 </div>

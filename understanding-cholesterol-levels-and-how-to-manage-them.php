@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Heart Health 101: A Comprehensive Guide to Managing Your Cholesterol Levels",
       "description": "Demystifying cholesterol by explaining the roles of HDL and LDL, detailing the risks of high cholesterol, and offering practical nutritional and lifestyle advice for maintaining healthy levels, by LifeCare Hospitals Kenya.",
-      "image": "/blog/img/hyper-tension.png",  
+      "image": "/blog/img/images/RCXKUQBIReUE5m9f.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Cardiology Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/hyper-tension.png"
+                                            src="/blog/img/images/RCXKUQBIReUE5m9f.webp"
                                             alt="Cholesterol Levels and Heart Health Visualization">
                                     </div>
                                 </div>

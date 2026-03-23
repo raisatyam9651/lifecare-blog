@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Filter for Life: Essential Daily Habits for Optimal Kidney Health",
       "description": "Providing practical, everyday tips for maintaining healthy kidneys, including hydration advice, dietary considerations, and the importance of monitoring blood pressure and sugar levels in Kenya.",
-      "image": "/blog/img/female-health-check.png",  
+      "image": "/blog/img/images/9jXYooyZ850B7Xut.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Renal Team",
@@ -130,7 +130,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/female-health-check.png"
+                                            src="/blog/img/images/9jXYooyZ850B7Xut.webp"
                                             alt="Kidney Health and Daily Wellness Habits">
                                     </div>
                                 </div>

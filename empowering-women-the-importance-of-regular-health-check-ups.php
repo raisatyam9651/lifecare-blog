@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Empowering Women: The Critical Role of Regular Health Screening",
       "description": "A comprehensive guide to female wellness at every life stage, detailing essential medical screenings from cervical health to cardiovascular monitoring in the Kenyan context.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/yTd5ueCjtSNpesxQ.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Women's Health Board",

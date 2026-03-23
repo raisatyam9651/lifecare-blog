@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "How Long Can a Person Have Dialysis?",
       "description": "A comprehensive look at the longevity and quality of life for patients on long-term dialysis, highlighting medical advancements and lifestyle factors in Kenya.",
-      "image": "/blog/img/long-term-dialysis.jpg",  
+      "image": "/blog/img/images/cdnwJt5vetA6Yagi.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Nephrology Board",
@@ -164,7 +164,7 @@ if (!function_exists('base_url')) {
               <article class="post cmt-blog-single clearfix">
                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                   <div class="cmt-post-featured">
-                    <img width="1170" height="524" class="img-fluid" src="/blog/img/long-term-dialysis.jpg"
+                    <img width="1170" height="524" class="img-fluid" src="/blog/img/images/cdnwJt5vetA6Yagi.webp"
                       alt="Longevity on Dialysis at LifeCare Hospitals">
                   </div>
                 </div>

@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Vitamins: Essential Science or Expensive Habits? A Guide to Supplements",
       "description": "A clinical evaluation of nutritional supplementation in Kenya, addressing micronutrient bioavailability, toxicity risks, and the medical criteria for supplement prescriptions at LifeCare Hospitals.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/G9YsqPZzkv4KsIsV.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Clinical Nutrition Board",

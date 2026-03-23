@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Beyond Simple Joint Pain: Exploring the Various Types of Arthritis and Their Symptoms",
       "description": "A clinical review of rheumatological conditions in Kenya, addressing the pathophysiology and diagnostic criteria for OA, RA, Gout, and autoimmune arthritides at LifeCare Hospitals.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/LcnF5s6P8Ef23HjK.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Rheumatology Board",

@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "A New Chapter: Expert Advice for Navigating Menopause with Confidence",
       "description": "Offering supportive guidance for women entering menopause, explaining common physical and emotional changes, and detailing the hormonal management options available at LifeCare Hospitals Kenya.",
-      "image": "/blog/img/hormone-balance.png",  
+      "image": "/blog/img/images/y9SyoKU6DiXJ0gCW.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Women's Health Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/hormone-balance.png"
+                                            src="/blog/img/images/y9SyoKU6DiXJ0gCW.webp"
                                             alt="Women's Health and Menopause Support">
                                     </div>
                                 </div>

@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Early Signs of Hypertension: Why It's Known as the Silent Killer",
       "description": "A clinical examination of high blood pressure symptoms and silent progression markers, detailing the importance of screening and the physiological impact of chronic hypertension in Kenya.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/fLNgRTJHdvwqgjzX.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Cardiology Board",

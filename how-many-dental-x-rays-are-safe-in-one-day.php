@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "How Many Dental X-rays Are Safe in One Day?",
       "description": "An investigative report on radiation exposure in dentistry, comparing modern digital dosages with daily background radiation to provide a clear answer on safety limits.",
-      "image": "/blog/img/dental-x-ray-safety-limit.png",  
+      "image": "/blog/img/images/ujnrNL94cN3OjAH2.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Dental Safety Board",
@@ -164,7 +164,7 @@ if (!function_exists('base_url')) {
               <article class="post cmt-blog-single clearfix">
                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                   <div class="cmt-post-featured">
-                    <img width="1170" height="524" class="img-fluid" src="/blog/img/dental-x-ray-safety-limit.png"
+                    <img width="1170" height="524" class="img-fluid" src="/blog/img/images/ujnrNL94cN3OjAH2.webp"
                       alt="Dental X-ray Safety and Radiation Limit at LifeCare">
                   </div>
                 </div>

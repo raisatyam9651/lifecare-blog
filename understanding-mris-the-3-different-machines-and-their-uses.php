@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "The Spectrum of Magnetic Resonance: Understanding the 3 Main Types of MRI Machines",
       "description": "A clinical comparison of MRI hardware configurations, addressing Tesla strength, gantry design, and diagnostic specificity for neuro, ortho, and cardiac imaging at LifeCare Hospitals.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/2XEigc2n0wRZkt0y.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Radiology Board",

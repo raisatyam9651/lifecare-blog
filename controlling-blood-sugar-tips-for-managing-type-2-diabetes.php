@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Controlling Blood Sugar: Expert Tips for Managing Type 2 Diabetes",
       "description": "A comprehensive clinical and lifestyle guide for individuals with Type 2 Diabetes, covering glucose monitoring, nutritional strategies, and medication adherence in the Kenyan context.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/iW6403zT1wGBWsJZ.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Metabolic Health Team",

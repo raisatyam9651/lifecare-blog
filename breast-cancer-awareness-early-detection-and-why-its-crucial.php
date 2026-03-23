@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Breast Cancer Awareness: Early Detection and Why It’s Crucial",
       "description": "A comprehensive guide on the importance of early breast cancer detection, including screening guidelines and common symptoms for women in Kenya.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/3UoEXaiilT7rTMoN.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Oncology Department",

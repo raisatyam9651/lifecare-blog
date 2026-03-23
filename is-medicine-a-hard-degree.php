@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Is Medicine a Hard Degree? Navigating the Medical School Journey in Kenya",
       "description": "An introspective and clinical perspective on medical education, discussing the academic rigors, emotional demands, and long-term professional rewards of a medical degree for aspiring doctors in Kenya.",
-      "image": "/blog/img/medicine-degree-hardship.jpg",  
+      "image": "/blog/img/images/hbckG5fpGwYjES1q.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Clinical Education Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/medicine-degree-hardship.jpg"
+                                            src="/blog/img/images/hbckG5fpGwYjES1q.webp"
                                             alt="Is Medicine a Hard Degree Medical Education at LifeCare">
                                     </div>
                                 </div>

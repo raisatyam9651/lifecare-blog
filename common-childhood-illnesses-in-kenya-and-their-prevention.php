@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Common Childhood Illnesses in Kenya and Their Prevention",
       "description": "A focused look at the health challenges faced by children in the Kenyan context and how parents can proactively protect their health.",
-      "image": "/blog/img/pediatric-health-guide.jpg",  
+      "image": "/blog/img/images/X2SItXt7smUns3gP.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Pediatrics Team",
@@ -157,7 +157,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/pediatric-health-guide.jpg"
+                                            src="/blog/img/images/X2SItXt7smUns3gP.webp"
                                             alt="Preventing Childhood Illnesses in Kenya">
                                     </div>
                                 </div>

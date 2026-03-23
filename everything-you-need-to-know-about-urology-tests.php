@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Demystifying Urology Tests: What You Need to Know",
       "description": "A detailed guide on the various diagnostic tests used in urology at LifeCare Hospitals, helping patients understand the process and the importance of regular urological health checks.",
-      "image": "/blog/img/urology-renal-care-LifeCare.jpg",  
+      "image": "/blog/img/images/Gy0vkwkcHV8iy702.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Urology Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/urology-renal-care-LifeCare.jpg"
+                                            src="/blog/img/images/Gy0vkwkcHV8iy702.webp"
                                             alt="Diagnostic Urology and Renal Care at LifeCare">
                                     </div>
                                 </div>

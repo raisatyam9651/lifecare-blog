@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Can Physiotherapy Help Lower Back Pain? Comprehensive Relief Strategies",
       "description": "An expert clinical guide detailing the role of physiotherapy in managing acute and chronic lower back pain, featuring therapeutic exercises, manual therapy, and preventative care in Kenya.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/iPefpI0Vgbk3apzz.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare PT Department",

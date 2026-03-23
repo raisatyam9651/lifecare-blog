@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Boosting Your Immune System: Traditional Kenyan Foods That Can Help",
       "description": "An exploration of Kenya's rich indigenous food heritage and its role in strengthening the human immune system through nutrient-dense traditional ingredients.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/gevqWX0H7ssLli1U.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Nutrition & Wellness Board",

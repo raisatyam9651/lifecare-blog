@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Dental Care During Pregnancy: Is It Safe? Essential Maternal Health Guide",
       "description": "A comprehensive clinical review of oral health safety during pregnancy, covering routine cleanings, emergency procedures, and the impact of maternal dental health on fetal development in Kenya.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/rCBLHMPNyEqgfivZ.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Maternity & Dental Board",

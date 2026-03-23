@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Best Foods to Control High Blood Pressure Naturally",
       "description": "A comprehensive guide on managing hypertension through evidence-based nutritional strategies, focusing on the DASH diet and specific blood-pressure-lowering superfoods.",
-      "image": "/blog/img/bp-control-foods.png",  
+      "image": "/blog/img/images/dUQ1vlEb9i1CYcEU.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Nutrition and Cardiology Board",
@@ -174,7 +174,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/bp-control-foods.png"
+                                            src="/blog/img/images/dUQ1vlEb9i1CYcEU.webp"
                                             alt="Best Foods to Lower Blood Pressure Naturally">
                                     </div>
                                 </div>

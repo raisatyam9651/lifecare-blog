@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Mind Matters: Shining a Light on Mental Wellness and Breaking the Stigma in Kenya",
       "description": "A compassionate review of mental health in the Kenyan context, addressing common disorders, the impact of stigma, and modern psychiatric interventions at LifeCare Hospitals.",
-      "image": "/blog/img/mental-wellness-stigma.png",  
+      "image": "/blog/img/images/urLgLR0mMX2x2Mdl.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Psychiatry Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/mental-wellness-stigma.png"
+                                            src="/blog/img/images/urLgLR0mMX2x2Mdl.webp"
                                             alt="Shining a Light on Mental Wellness Breaking the Stigma">
                                     </div>
                                 </div>

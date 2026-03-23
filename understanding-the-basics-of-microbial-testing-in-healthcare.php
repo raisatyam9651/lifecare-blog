@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Understanding Microbial Testing: The Science of Accurate Diagnosis",
       "description": "A clinical laboratory guide on microbiology in modern medicine, exploring culture methods, rapid diagnostic platforms, and the role of sensitivity testing in combating antibiotic resistance in Kenya.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/LDWw7Iiay29xCpaJ.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Clinical Laboratory Board",

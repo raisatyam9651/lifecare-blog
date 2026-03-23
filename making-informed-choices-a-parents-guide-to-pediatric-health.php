@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Empowered Parenting: Making Informed Healthcare Choices for Your Child in Kenya",
       "description": "A clinical roadmap for pediatric wellness, addressing preventative care, nutritional milestones, and evidence-based medicine protocols for Kenyan families at LifeCare Hospitals.",
-      "image": "/blog/img/pediatric-health-guide.jpg",  
+      "image": "/blog/img/images/JCTLHWSpT4FCxhYO.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Pediatric Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/pediatric-health-guide.jpg"
+                                            src="/blog/img/images/JCTLHWSpT4FCxhYO.webp"
                                             alt="Making Informed Choices A Parents Guide to Pediatric Health">
                                     </div>
                                 </div>

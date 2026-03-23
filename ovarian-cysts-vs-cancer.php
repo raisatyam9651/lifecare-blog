@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Understanding Your Ovaries: Differentiating Cysts from Cancerous Growth",
       "description": "An educational guide for women explaining the common nature of ovarian cysts, the warning signs of ovarian cancer, and the role of specialized gynecology and oncology care at LifeCare Hospitals Kenya.",
-      "image": "/blog/img/gynecology-female-health.jpg",  
+      "image": "/blog/img/images/lm2aKra7CMtw9wYQ.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Women's Health Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/gynecology-female-health.jpg"
+                                            src="/blog/img/images/lm2aKra7CMtw9wYQ.webp"
                                             alt="Ovarian Health and Cancer Screening">
                                     </div>
                                 </div>

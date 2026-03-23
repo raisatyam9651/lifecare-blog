@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Eyes on Fire? A Comprehensive Guide to Managing Dry Eye Syndrome",
       "description": "An essential guide to recognizing the symptoms and causes of dry eyes, with practical advice and specialized treatment options available at LifeCare Hospitals Kenya.",
-      "image": "/blog/img/eye-care-experts.jpg",  
+      "image": "/blog/img/images/FMxUrWyocG3evwYb.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Eye Care Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/eye-care-experts.jpg"
+                                            src="/blog/img/images/FMxUrWyocG3evwYb.webp"
                                             alt="Specialized Eye Care for Dry Eyes">
                                     </div>
                                 </div>

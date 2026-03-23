@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Expert Tips for Maintaining Bone Health: Building Strength for Life",
       "description": "A comprehensive musculoskeletal guide on skeletal health, outlining the roles of nutrition, exercise, and hormonal balance in preventing bone density loss and osteoporosis in Kenya.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/UWChHvBDHP9x33Vy.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Orthopedic Board",

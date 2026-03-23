@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "ABC of Diabetes: Your Complete Guide to Management",
       "description": "A comprehensive guide to understanding and managing diabetes using the ABC framework: A1C, Blood Pressure, and Cholesterol.",
-      "image": "/blog/img/diabetes-awareness.png",  
+      "image": "/blog/img/images/buCAbYcTbbvjvDer.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Hospitals Endocrinology Team",
@@ -174,7 +174,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/diabetes-awareness.png"
+                                            src="/blog/img/images/buCAbYcTbbvjvDer.webp"
                                             alt="ABC of Diabetes Awareness and Management">
                                     </div>
                                 </div>

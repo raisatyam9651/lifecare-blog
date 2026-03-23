@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "The Master Regulator: Navigating Thyroid Health, Disorders, and Modern Management",
       "description": "A clinical roadmap for endocrine wellness in Kenya, addressing thyroid dysfunction pathophysiology, diagnostic markers, and therapeutic interventions at LifeCare Hospitals.",
-      "image": "/blog/img/thyroid-health.png",  
+      "image": "/blog/img/images/NOckMqzvxdd7uhyC.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Endocrinology Board",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/thyroid-health.png"
+                                            src="/blog/img/images/NOckMqzvxdd7uhyC.webp"
                                             alt="Navigating Thyroid Health Understanding Disorders and Management">
                                     </div>
                                 </div>

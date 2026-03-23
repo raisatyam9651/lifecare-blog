@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Is High Cholesterol Hereditary? The Role of Genetics in Heart Health",
       "description": "Explaining how genetics influence cholesterol levels, the importance of screening for familial hypercholesterolemia, and the advanced cardiology care available at LifeCare Hospitals Kenya.",
-      "image": "/blog/img/preventive-cardiology.jpg",  
+      "image": "/blog/img/images/sn9XKNmH9RtaEsZB.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Cardiology Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/preventive-cardiology.jpg"
+                                            src="/blog/img/images/sn9XKNmH9RtaEsZB.webp"
                                             alt="Heart Health and Genetic Cholesterol Factors">
                                     </div>
                                 </div>

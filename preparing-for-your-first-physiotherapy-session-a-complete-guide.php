@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Preparing for Your First Physiotherapy Session: A Step-by-Step Patient Guide",
       "description": "An expert clinical guide on physical therapy preparation at LifeCare Hospitals, detailing the assessment process, clothing requirements, diagnostic prerequisites, and goal-setting for rehabilitation in Kenya.",
-      "image": "/blog/img/physiotherapy-first-session.jpg",  
+      "image": "/blog/img/images/Mevvt4Bp55un3AAk.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Rehabilitative Team",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/physiotherapy-first-session.jpg"
+                                            src="/blog/img/images/Mevvt4Bp55un3AAk.webp"
                                             alt="Preparing for Your First Physiotherapy Session">
                                     </div>
                                 </div>

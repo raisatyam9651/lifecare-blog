@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Hospitals on Wheels: How Ambulance Services Manage Critical Care Transport",
       "description": "Explaining the sophisticated infrastructure and medical expertise required for critical care air or road transport, focusing on LifeCare Hospitals' emergency response capabilities in Kenya.",
-      "image": "/blog/img/ambulance-services.png",  
+      "image": "/blog/img/images/aeYZhVG3N2OfveB8.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Emergency Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/ambulance-services.png"
+                                            src="/blog/img/images/aeYZhVG3N2OfveB8.webp"
                                             alt="Emergency Critical Care Ambulance Transport">
                                     </div>
                                 </div>

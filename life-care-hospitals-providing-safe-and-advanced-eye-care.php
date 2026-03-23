@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Safe and Advanced Eye Care: The LifeCare Hospitals Vision",
       "description": "A comprehensive review of ophthalmological excellence at LifeCare Hospitals, showcasing the integration of modular operation theaters, advanced diagnostic imaging, and expert surgical care in Kenya.",
-      "image": "/blog/img/eye-care-experts.jpg",  
+      "image": "/blog/img/images/WhuHIL6wPaLtIscG.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Ophthalmology Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/eye-care-experts.jpg" alt="LifeCare Eye Care Services">
+                                            src="/blog/img/images/WhuHIL6wPaLtIscG.webp" alt="LifeCare Eye Care Services">
                                     </div>
                                 </div>
                                 <div class="cmt-blog-single-content" style="padding-top:20px;">

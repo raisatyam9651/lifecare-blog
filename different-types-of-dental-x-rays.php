@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Different Types of Dental X-rays and Why They Matter",
       "description": "A comprehensive overview of the various dental imaging techniques used at LifeCare Hospitals in Nairobi, explaining their specific uses and benefits for patient health.",
-      "image": "/blog/img/dental-x-ray-safety.png",  
+      "image": "/blog/img/images/Tq2psbXg1Qf3ZTyu.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Dental Team",
@@ -157,7 +157,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/dental-x-ray-safety.png"
+                                            src="/blog/img/images/Tq2psbXg1Qf3ZTyu.webp"
                                             alt="Diagnostic Dental Imaging Options">
                                     </div>
                                 </div>

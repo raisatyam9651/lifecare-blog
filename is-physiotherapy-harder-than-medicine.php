@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Is Physiotherapy Harder Than Medicine?",
       "description": "An objective comparison of the educational and professional landscapes of physiotherapy and medicine, focusing on the unique challenges and synergies of both fields.",
-      "image": "/blog/img/physiotherapy-vs-medicine.jpg",  
+      "image": "/blog/img/images/VcGoZiZu6YagbIC9.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Clinical Education Board",
@@ -167,7 +167,7 @@ if (!function_exists('base_url')) {
               <article class="post cmt-blog-single clearfix">
                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                   <div class="cmt-post-featured">
-                    <img width="1170" height="524" class="img-fluid" src="/blog/img/physiotherapy-vs-medicine.jpg"
+                    <img width="1170" height="524" class="img-fluid" src="/blog/img/images/VcGoZiZu6YagbIC9.webp"
                       alt="Physiotherapy vs Medical Practice at LifeCare">
                   </div>
                 </div>

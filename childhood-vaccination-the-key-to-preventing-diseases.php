@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Childhood Vaccination: The Key to Preventing Diseases",
       "description": "A comprehensive look at why vaccines are essential for children's health and the current immunization guidelines in Kenya.",
-      "image": "/blog/img/vaccination-child.jpg",  
+      "image": "/blog/img/images/inleqhG7omzCDJIu.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Pediatrics Team",
@@ -157,7 +157,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/vaccination-child.jpg"
+                                            src="/blog/img/images/inleqhG7omzCDJIu.webp"
                                             alt="Childhood Vaccination Awareness">
                                     </div>
                                 </div>

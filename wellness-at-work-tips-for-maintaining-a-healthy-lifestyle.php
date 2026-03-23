@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Wellness at Work: A Clinical Guide to Maintaining Health in the Professional Environment",
       "description": "An occupational health framework for the Kenyan workforce, detailing ergonomic optimization, nutritional resilience in the office, stress mitigation strategies, and the integration of physical activity into the workday.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": ""/blog/img/images/w3Lrpdy4amzJ8w91.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Occupational Health Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/best-hospitals-in-kenya.png"
+                                            src="/blog/img/images/w3Lrpdy4amzJ8w91.webp"
                                             alt="Wellness at Work Tips for Maintaining a Healthy Lifestyle">
                                     </div>
                                 </div>

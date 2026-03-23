@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Joint Health Journey: How to Safely Stay Active While Managing Arthritis",
       "description": "Offering practical guidance and orthopedic-approved exercises for individuals living with arthritis, focusing on preserving joint range of motion and reducing pain through low-impact movement, by LifeCare Hospitals Kenya.",
-      "image": "/blog/img/orthopedic-care-LifeCare.jpg",  
+      "image": "/blog/img/images/gj5x5GIG95y8aJaf.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Orthopedic Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/orthopedic-care-LifeCare.jpg"
+                                            src="/blog/img/images/gj5x5GIG95y8aJaf.webp"
                                             alt="Orthopedic Joint Care and Exercise">
                                     </div>
                                 </div>

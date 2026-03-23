@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Seeing the Unseen: The Vital Role of Radiology in Modern Healthcare",
       "description": "Explaining the importance of radiology in accurate diagnosis, the different types of medical imaging (X-ray, CT, MRI, Ultrasound), and the advanced diagnostic technology available at LifeCare Hospitals Kenya.",
-      "image": "/blog/img/neurology-spine-care.jpg",  
+      "image": "/blog/img/images/Xgy5LHB5ePtUB1ET.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Radiology Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/neurology-spine-care.jpg"
+                                            src="/blog/img/images/Xgy5LHB5ePtUB1ET.webp"
                                             alt="Advanced Diagnostic Imaging and Radiology">
                                     </div>
                                 </div>

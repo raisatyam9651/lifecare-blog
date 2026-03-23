@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Understanding the Spectrum: A Comprehensive Guide to Depression and Anxiety in Kenya",
       "description": "A clinical overview of the two most common mental health conditions in Kenya, exploring diagnostic criteria, the neurobiology of mood disorders, and integrative treatment pathways at LifeCare Hospitals.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/miN1idLYrQUxuLOI.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Psychiatric Board",

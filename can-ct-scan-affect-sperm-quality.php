@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Can CT Scan Affect Sperm Quality?",
       "description": "An investigative look at the relationship between diagnostic CT radiation and male reproductive health, highlighting safety measures and impact analysis.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/y2ny1QbXo8ZbTtKS.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Radiology & Urology Board",

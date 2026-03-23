@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Diabetes Alert: The Silent Symptoms You May Be Ignoring",
       "description": "An essential guide to the subtle, often overlooked early indicators of diabetes, stressing the importance of proactive health screenings at LifeCare Hospitals Kenya.",
-      "image": "/blog/img/diabetes-awareness.png",  
+      "image": "/blog/img/images/weMh6jNF7Rsv6G7H.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Metabolic Team",
@@ -157,7 +157,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/diabetes-awareness.png"
+                                            src="/blog/img/images/weMh6jNF7Rsv6G7H.webp"
                                             alt="Early Signs and Symptoms of Diabetes">
                                     </div>
                                 </div>

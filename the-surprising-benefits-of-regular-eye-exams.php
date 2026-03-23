@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Vision and Beyond: Why Regular Eye Exams are a Window to Your Overall Health",
       "description": "Explaining the vital role of comprehensive eye exams in both maintaining vision and detecting systemic health issues like diabetes and hypertension, and the eye care services at LifeCare Hospitals Kenya.",
-      "image": "/blog/img/general-wellness.png",  
+      "image": "/blog/img/images/i3Y21hyLa5pJQqEo.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Eye Care Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/general-wellness.png"
+                                            src="/blog/img/images/i3Y21hyLa5pJQqEo.webp"
                                             alt="Comprehensive Eye Examination and Care">
                                     </div>
                                 </div>

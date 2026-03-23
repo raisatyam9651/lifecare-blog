@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Preventive Healthcare: The Clinical Necessity of Regular Screenings",
       "description": "An exploration of preventative medicine frameworks in Kenya, detailing age-appropriate screening protocols for NCDs, infectious diseases, and metabolic disorders at LifeCare Hospitals.",
-      "image": "/blog/img/preventive-healthcare.jpg",  
+      "image": "/blog/img/images/ljGQa3V0ZFVY7XHg.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Wellness Board",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/preventive-healthcare.jpg"
+                                            src="/blog/img/images/ljGQa3V0ZFVY7XHg.webp"
                                             alt="Preventive Healthcare Understanding the Importance of Regular Check-ups">
                                     </div>
                                 </div>

@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "LifeCare Optical: Where Style Meets Clinical Precision",
       "description": "A comprehensive guide to optometric excellence at LifeCare Optical, detailing advanced lens technologies, ocular health screening, and personalized eyewear solutions in Kenya.",
-      "image": "/blog/img/optical-vision-care.jpg",  
+      "image": "/blog/img/images/ydDNnFmjvTtHoT9C.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Optical Team",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/optical-vision-care.jpg"
+                                            src="/blog/img/images/ydDNnFmjvTtHoT9C.webp"
                                             alt="LifeCare Optical Services Vision">
                                     </div>
                                 </div>

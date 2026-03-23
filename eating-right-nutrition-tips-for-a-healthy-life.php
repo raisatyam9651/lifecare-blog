@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Eating Right: A Practical Guide to Nutrition for Kenyans",
       "description": "Expert nutritional advice from LifeCare Hospitals focusing on the importance of a balanced diet, hydration, and the impact of food on long-term health and disease prevention.",
-      "image": "/blog/img/kenyan-foods-immunity.jpg",  
+      "image": "/blog/img/images/kACe4OLF412LhCcO.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Nutrition Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/kenyan-foods-immunity.jpg"
+                                            src="/blog/img/images/kACe4OLF412LhCcO.webp"
                                             alt="Balanced Diet and Healthy Nutrition">
                                     </div>
                                 </div>

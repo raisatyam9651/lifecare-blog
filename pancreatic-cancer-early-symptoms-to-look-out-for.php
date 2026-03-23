@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Staying Vigilant: Early Symptoms and Discovery of Pancreatic Cancer",
       "description": "A focused educational guide on pancreatic cancer, highlighting the subtle early-stage symptoms, the role of modern imaging, and the specialist care available at LifeCare Hospitals Kenya.",
-      "image": "/blog/img/cancer-screening.png",  
+      "image": "/blog/img/images/NX71w9jPe3qAlPjS.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Oncology Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/cancer-screening.png"
+                                            src="/blog/img/images/NX71w9jPe3qAlPjS.webp"
                                             alt="Gastrointestinal Health and Cancer Vigilance">
                                     </div>
                                 </div>

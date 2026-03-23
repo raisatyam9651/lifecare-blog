@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Beyond 8 Glasses: The Science and Myths of Proper Hydration",
       "description": "A clinical exploration of human fluid requirements, addressing metabolic hydration, electrolyte homeostasis, and the debunking of popular beverage myths at LifeCare Hospitals.",
-      "image": "/blog/img/hydration-myths-facts.jpg",  
+      "image": "/blog/img/images/95CIjekmSJeEJXhx.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Metabolic Health Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/hydration-myths-facts.jpg"
+                                            src="/blog/img/images/95CIjekmSJeEJXhx.webp"
                                             alt="Hydration Myths Debunked Truth About Water Intake at LifeCare">
                                     </div>
                                 </div>

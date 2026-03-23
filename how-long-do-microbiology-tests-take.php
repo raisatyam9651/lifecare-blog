@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "How Long Do Microbiology Tests Take?",
       "description": "An investigative look into the clinical laboratory process, explaining the biological and technical requirements that dictate the timeline for microbiology and culture results.",
-      "image": "/blog/img/microbiology-tests-duration.jpg",  
+      "image": "/blog/img/images/qCYErFXGKA9wOgGm.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Laboratory & Pathology Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/microbiology-tests-duration.jpg"
+                                            src="/blog/img/images/qCYErFXGKA9wOgGm.webp"
                                             alt="Microbiology Lab Testing Timeline at LifeCare">
                                     </div>
                                 </div>

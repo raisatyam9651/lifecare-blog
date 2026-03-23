@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Gestational Diabetes: Essential Risks and Clinical Management during Pregnancy",
       "description": "An expert obstetric guide on gestational diabetes mellitus (GDM), detailing diagnostic criteria, maternal-fetal risks, and specialized nutritional and medical management in Kenya.",
-      "image": "/blog/img/gestational-diabetes-management.png",  
+      "image": "/blog/img/images/fVrkf0ZOH6mrE2zd.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Maternity & Obstetric Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/gestational-diabetes-management.png"
+                                            src="/blog/img/images/fVrkf0ZOH6mrE2zd.webp"
                                             alt="Managing Gestational Diabetes During Pregnancy">
                                     </div>
                                 </div>

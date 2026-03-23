@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Expert Cardiology at LifeCare: Excellence in Heart Health for Kenya",
       "description": "Discover why LifeCare Hospitals is a leader in cardiac care, offering advanced diagnostics, specialized treatments, and a commitment to heart disease prevention and management.",
-      "image": "/blog/img/preventive-cardiology.jpg",  
+      "image": "/blog/img/images/lI6NVurpfbQSIP9u.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Cardiology Team",
@@ -111,7 +111,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/preventive-cardiology.jpg"
+                                            src="/blog/img/images/lI6NVurpfbQSIP9u.webp"
                                             alt="Heart Health Excellence at LifeCare Hospitals">
                                     </div>
                                 </div>

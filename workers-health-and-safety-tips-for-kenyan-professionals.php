@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Occupational Health and Safety: A Comprehensive Guide for the Kenyan Workforce",
       "description": "An expert clinical framework for occupational safety in Kenya, detailing industrial hazard mitigation, PPE protocols, emergency preparedness, and the role of clinical surveillance in workplace health.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": ""/blog/img/images/t4CRH1ptYODfly33.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Occupational Risk Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/best-hospitals-in-kenya.png"
+                                            src="/blog/img/images/t4CRH1ptYODfly33.webp"
                                             alt="Workers Health and Safety Tips for Kenyan Professionals">
                                     </div>
                                 </div>

@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Can Bad Dental Hygiene Make You Sick? Understanding the Oral-Systemic Link",
       "description": "A detailed clinical exploration of the connection between oral health and general wellness, highlighting the cardiovascular and respiratory risks of poor dental hygiene.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/i1II1Q5Mgnqaann4.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Dental Department",

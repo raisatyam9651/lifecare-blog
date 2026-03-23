@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Is There Any Radiation Risk with Mammography? An Evidence-Based Safety Guide",
       "description": "A clinical radiological review of mammography safety, detailing ionizing radiation dosages, the impact of digital technology on safety, and the life-saving necessity of regular breast cancer screening in Kenya.",
-      "image": "/blog/img/mammography-safety.jpg",  
+      "image": "/blog/img/images/bqOa8Ga_jE_vxEAhrpcyt.jpg",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Women's Imaging Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/mammography-safety.jpg"
+                                            src="/blog/img/images/bqOa8Ga_jE_vxEAhrpcyt.jpg"
                                             alt="Radiation Risk with Mammography at LifeCare">
                                     </div>
                                 </div>

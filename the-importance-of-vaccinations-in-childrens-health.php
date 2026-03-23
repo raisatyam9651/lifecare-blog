@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Shielding the Brave: The Vital Importance of Childhood Vaccinations in Kenya",
       "description": "An investigative review into pediatric immunization frameworks, discussing vaccine-preventable diseases, herd immunity, and the KEPI vaccination schedule at LifeCare Hospitals.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/xHaPb1P0RGanCKzK.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Clinical Immunization Board",

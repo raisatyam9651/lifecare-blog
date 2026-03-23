@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Heart Attack vs Cardiac Arrest: How to Tell the Difference",
       "description": "An essential guide explaining the distinct differences between a heart attack and cardiac arrest, their symptoms, and the immediate emergency actions required.",
-      "image": "/blog/img/cardiology-care.png",  
+      "image": "/blog/img/images/fUEHSr2lLub2EIRo.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Cardiology Team",
@@ -157,7 +157,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/cardiology-care.png"
+                                            src="/blog/img/images/fUEHSr2lLub2EIRo.webp"
                                             alt="Cardiac Emergency Care at LifeCare">
                                     </div>
                                 </div>

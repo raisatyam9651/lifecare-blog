@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Is Physiotherapy Safe? Addressing Pain, Safety, and Clinical Effectiveness",
       "description": "An expert overview of physical therapy safety protocols at LifeCare Hospitals, discussing patient sensations during therapeutic interventions and the rehabilitative process in the Kenyan healthcare landscape.",
-      "image": "/blog/img/physiotherapy-pain.png",  
+      "image": "/blog/img/images/TQPYVyLUKK28euoy.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Rehabilitative Medicine Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/physiotherapy-pain.png"
+                                            src="/blog/img/images/TQPYVyLUKK28euoy.webp"
                                             alt="Is Physiotherapy Safe Is It Painful LifeCare Hospitals">
                                     </div>
                                 </div>

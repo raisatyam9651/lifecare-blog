@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "LifeCare Cataract Specialists: Advanced Precision for Your Vision",
       "description": "A comprehensive ophthalmological guide on cataract management at LifeCare Hospitals, detailing advanced phacoemulsification techniques, lens options, and the clinical pathway to visual restoration in Kenya.",
-      "image": "/blog/img/cataract-specialists.jpg",  
+      "image": "/blog/img/images/rcj3rfGXwCGm58tZ.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Ophthalmology Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/cataract-specialists.jpg"
+                                            src="/blog/img/images/rcj3rfGXwCGm58tZ.webp"
                                             alt="LifeCare Cataract Specialists">
                                     </div>
                                 </div>

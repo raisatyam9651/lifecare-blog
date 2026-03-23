@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "The Corporate Pulse: Supporting Mental Health in the Kenyan Workplace",
       "description": "A strategic overview of occupational mental health frameworks in Kenya, focusing on burnout prevention, workplace resilience, and the economic impact of mental wellness at LifeCare Hospitals.",
-      "image": "/blog/img/workplace-mental-health.jpg",  
+      "image": "/blog/img/images/wzAUncUfe6DPJiYM.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Occupational Risk Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/workplace-mental-health.jpg"
+                                            src="/blog/img/images/wzAUncUfe6DPJiYM.webp"
                                             alt="Supporting Mental Health in the Workplace">
                                     </div>
                                 </div>

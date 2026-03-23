@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Knowing the Signs and Symptoms of Breast Cancer: A Comprehensive Guide",
       "description": "An essential oncological guide on breast cancer awareness, outlining somatic indicators, self-examination protocols, and the critical importance of early diagnostic intervention in Kenya.",
-      "image": "/blog/img/breast-cancer-signs.jpg",  
+      "image": "/blog/img/images/APVpusOH47rrV0vb.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Oncology Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/breast-cancer-signs.jpg"
+                                            src="/blog/img/images/APVpusOH47rrV0vb.webp"
                                             alt="Knowing the Signs and Symptoms of Breast Cancer LifeCare">
                                     </div>
                                 </div>

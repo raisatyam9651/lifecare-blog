@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "How Long Does a Urology Test Take?",
       "description": "A comprehensive clinical overview of common urological diagnostic procedures, their typical durations, and what patients in Kenya should expect during their visit.",
-      "image": "/blog/img/urology-test-duration.jpg",  
+      "image": "/blog/img/images/r7Hvb1WFe5T4pzdX.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Urology Specialist Board",
@@ -174,7 +174,7 @@ if (!function_exists('base_url')) {
               <article class="post cmt-blog-single clearfix">
                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                   <div class="cmt-post-featured">
-                    <img width="1170" height="524" class="img-fluid" src="/blog/img/urology-test-duration.jpg"
+                    <img width="1170" height="524" class="img-fluid" src="/blog/img/images/r7Hvb1WFe5T4pzdX.webp"
                       alt="Urology Testing and Procedures at LifeCare">
                   </div>
                 </div>

@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Vitamins and Minerals: The Building Blocks of Your Child's Growth",
       "description": "A clinical pediatric nutrition guide exploring micronutrient requirements for childhood development, somatic growth markers, and nutritional strategies for optimal health in the Kenyan population.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/ruMKDB8UnfgLSH4a.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Pediatric Nutrition Board",

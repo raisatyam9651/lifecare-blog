@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Detecting Breast Cancer Early: The Gold Standard for Women's Health",
       "description": "A comprehensive clinical and awareness guide on breast cancer screening, detailing self-examination techniques, radiological diagnostics (mammography/ultrasound), and the importance of early intervention in Kenya.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/kiFymFZak1GwQlXu.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Women's Health Board",

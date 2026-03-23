@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Cardiac Complications of Diabetes: Protecting Your Heart Health",
       "description": "An in-depth clinical study on the intersection of diabetes and cardiovascular health, detailing how insulin resistance impacts arterial health and providing preventative management protocols in Kenya.",
-      "image": "https://lchafrica.com/blog/img/best-hospitals-in-kenya.png",  
+      "image": "/blog/img/images/AUDoQ8QawextRpjE3kpIh.jpg",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Cardiology Board",
