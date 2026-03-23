@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/best-hospitals-in-kenya.png"
+                                            src="/blog/img/images/i3Y21hyLa5pJQqEo.webp"
                                             alt="Your Guide to Safe and Advanced Eye Care">
                                     </div>
                                 </div>

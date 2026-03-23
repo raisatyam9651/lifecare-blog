@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/best-hospitals-in-kenya.png"
+                                            src="/blog/img/images/LV7NVST8qDk8gjNH.webp"
                                             alt="Discover the Secret to a Lifetime of Beautifully White Teeth">
                                     </div>
                                 </div>

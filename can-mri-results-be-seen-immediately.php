@@ -164,7 +164,7 @@ if (!function_exists('base_url')) {
               <article class="post cmt-blog-single clearfix">
                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                   <div class="cmt-post-featured">
-                    <img width="1170" height="524" class="img-fluid" src="/blog/img/best-hospitals-in-kenya.png"
+                    <img width="1170" height="524" class="img-fluid" src="/blog/img/images/VidC1UVfJSi5lJff.webp"
                       alt="MRI Results and Reporting">
                   </div>
                 </div>

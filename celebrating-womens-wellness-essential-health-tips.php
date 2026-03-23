@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/best-hospitals-in-kenya.png"
+                                            src="/blog/img/images/lk8Zs8Y8baWb4mdY.webp"
                                             alt="Celebrating Womens Wellness Essential Health Tips">
                                     </div>
                                 </div>

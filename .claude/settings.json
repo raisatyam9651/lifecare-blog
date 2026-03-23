@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -h 'cmt-post-featured' /Users/bp/Downloads/Lifecare-blog/*.php -A2)"
+    ]
+  }
+}
