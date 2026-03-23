@@ -85,6 +85,14 @@ if ($filter_category) {
     });
 }
 
+// Pagination Logic
+$limit = 12;
+$page = isset($_GET['page']) && is_numeric($_GET['page']) && $_GET['page'] > 0 ? (int)$_GET['page'] : 1;
+$total_items = count($blogs);
+$total_pages = ceil($total_items / $limit);
+$offset = ($page - 1) * $limit;
+$paginated_blogs = array_slice($blogs, $offset, $limit);
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -276,6 +284,37 @@ if ($filter_category) {
         .karma-read-more:hover {
             color: #0c6574;
         }
+
+        .pagination-container {
+            display: flex;
+            justify-content: center;
+            margin-top: 40px;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+        
+        .pagination-container a,
+        .pagination-container span {
+            display: inline-block;
+            padding: 8px 16px;
+            background: #fff;
+            color: #333;
+            border-radius: 4px;
+            text-decoration: none;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .pagination-container a:hover {
+            background: #00b2e3;
+            color: #fff;
+        }
+
+        .pagination-container .active {
+            background: #0c6574;
+            color: #fff;
+        }
     </style>
 </head>
 
@@ -302,8 +341,8 @@ if ($filter_category) {
                     </ul>
                 </div>
                 <div class="karma-blog-grid">
-                    <?php if (!empty($blogs)): ?>
-                        <?php foreach ($blogs as $value): ?>
+                    <?php if (!empty($paginated_blogs)): ?>
+                        <?php foreach ($paginated_blogs as $value): ?>
                             <article class="karma-blog-card">
                                 <div class="karma-blog-image">
                                     <span class="karma-category-badge"><?php echo htmlspecialchars($value->category); ?></span>
@@ -337,6 +376,36 @@ if ($filter_category) {
                         </div>
                     <?php endif; ?>
                 </div>
+
+                <!-- Pagination UI -->
+                <?php if ($total_pages > 1): ?>
+                    <div class="pagination-container">
+                        <?php if ($page > 1): ?>
+                            <a href="?page=<?php echo $page - 1; ?><?php echo $filter_category ? '&category=' . urlencode($_GET['category']) : ''; ?>">&laquo; Prev</a>
+                        <?php endif; ?>
+
+                        <?php
+                        // Calculate range for pagination to show at most 5 page numbers
+                        $start_page = max(1, $page - 2);
+                        $end_page = min($total_pages, $start_page + 4);
+                        if ($end_page - $start_page < 4) {
+                            $start_page = max(1, $end_page - 4);
+                        }
+                        ?>
+
+                        <?php for ($i = $start_page; $i <= $end_page; $i++): ?>
+                            <?php if ($i == $page): ?>
+                                <span class="active"><?php echo $i; ?></span>
+                            <?php else: ?>
+                                <a href="?page=<?php echo $i; ?><?php echo $filter_category ? '&category=' . urlencode($_GET['category']) : ''; ?>"><?php echo $i; ?></a>
+                            <?php endif; ?>
+                        <?php endfor; ?>
+
+                        <?php if ($page < $total_pages): ?>
+                            <a href="?page=<?php echo $page + 1; ?><?php echo $filter_category ? '&category=' . urlencode($_GET['category']) : ''; ?>">Next &raquo;</a>
+                        <?php endif; ?>
+                    </div>
+                <?php endif; ?>
             </div>
         </section>
     </div>
