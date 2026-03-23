@@ -7,18 +7,21 @@ if (!function_exists('base_url')) {
     }
 }
 
-// Read all php files inside /blog/ to find blogs
+// Read all php files to find blogs
 $blog_files = glob(__DIR__ . '/*.php');
 
 $blogs = [];
 
 foreach ($blog_files as $file) {
     $file_name = basename($file);
-    if ($file_name === 'index.php')
+    if ($file_name === 'index.php' || $file_name === 'scan_images.php')
         continue;
 
     if (is_file($file)) {
-        $content = file_get_contents($file);
+        // Optimized: Only read the first 8 KB to find metadata (much faster than full file)
+        $handle = fopen($file, 'r');
+        $content = fread($handle, 8192);
+        fclose($handle);
 
         $slug = str_replace('.php', '', $file_name);
 
@@ -26,7 +29,6 @@ foreach ($blog_files as $file) {
             'url' => $slug,   // clean URL without .php
             'title' => ucwords(str_replace('-', ' ', $slug)),
             'description' => '',
-            'image' => base_url('images/placeholder.jpg'),
             'date' => filemtime($file)
         ];
 
@@ -41,14 +43,6 @@ foreach ($blog_files as $file) {
                     $blog['description'] = $schema['description'];
                 if (!empty($schema['datePublished']))
                     $blog['date'] = strtotime($schema['datePublished']);
-
-                // Extract image
-                if (!empty($schema['image'])) {
-                    $img = is_array($schema['image']) ? $schema['image'][0] : $schema['image'];
-                    // If image is a full live URL, optionally convert to local path if needed, 
-                    // or just keep it so it loads regardless
-                    $blog['image'] = str_replace('https://lchafrica.com/', '/', $img);
-                }
             }
         }
 
@@ -344,14 +338,12 @@ $paginated_blogs = array_slice($blogs, $offset, $limit);
                     <?php if (!empty($paginated_blogs)): ?>
                         <?php foreach ($paginated_blogs as $value): ?>
                             <article class="karma-blog-card">
-                                <div class="karma-blog-image">
-                                    <span class="karma-category-badge"><?php echo htmlspecialchars($value->category); ?></span>
-                                    <a href="<?php echo $value->url; ?>">
-                                        <img src="<?php echo $value->image; ?>" alt="Blog Image"
-                                            onerror="this.src='/images/placeholder.jpg'">
-                                    </a>
-                                </div>
                                 <div class="karma-blog-content">
+                                    <div class="mb-2">
+                                        <span class="karma-category-badge" style="position: static; display: inline-block; background: #00b2e3; color: #fff; padding: 4px 12px; border-radius: 4px; font-size: 11px; font-weight: 700; text-transform: uppercase;">
+                                            <?php echo htmlspecialchars($value->category); ?>
+                                        </span>
+                                    </div>
                                     <div class="karma-blog-meta">
                                         <i class="fa fa-calendar"></i> <?php echo strtoupper(date('F j, Y', $value->date)); ?>
                                         &bull; ADMINKARMA
