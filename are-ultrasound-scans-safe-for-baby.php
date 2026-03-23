@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Are Ultrasound Scans Safe for Your Baby?",
       "description": "A comprehensive guide for parents-to-be on the safety and medical necessity of prenatal ultrasound scans.",
-      "image": "/blog/img/images/j5euTynNahsOcHD0.webp",  
+      "image": "img/images/j5euTynNahsOcHD0.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Hospitals Maternity Department",
@@ -168,7 +168,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/j5euTynNahsOcHD0.webp"
+                                            src="img/images/j5euTynNahsOcHD0.webp"
                                             alt="Are Ultrasound Scans Safe for Your Baby">
                                     </div>
                                 </div>

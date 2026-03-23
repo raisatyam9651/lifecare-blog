@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Can an Orthopedic Surgeon Treat Varicose Veins? Clarifying Leg Pain Care",
       "description": "An educational clinical comparison between orthopedic and vascular medical specialties, explaining the treatment protocols for varicose veins and when to see a specific specialist in Kenya.",
-      "image": "/blog/img/images/F3FJzc4BAF94CJ0j.webp",  
+      "image": "img/images/F3FJzc4BAF94CJ0j.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Clinical Specialist Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/F3FJzc4BAF94CJ0j.webp"
+                                            src="img/images/F3FJzc4BAF94CJ0j.webp"
                                             alt="Orthopedic Surgeon or Vascular Surgeon for Veins">
                                     </div>
                                 </div>

@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Balancing Hormones: A Key to Women's Health",
       "description": "An in-depth exploration of hormonal health for women, covering common imbalances, lifecycle changes, and integrative treatment approaches.",
-      "image": "/blog/img/images/7fonMgF7i1sG7xFt.webp",  
+      "image": "img/images/7fonMgF7i1sG7xFt.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Hospitals Women's Health Board",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/7fonMgF7i1sG7xFt.webp" alt="Balancing Hormones for Women's Health">
+                                            src="img/images/7fonMgF7i1sG7xFt.webp" alt="Balancing Hormones for Women's Health">
                                     </div>
                                 </div>
                                 <div class="cmt-blog-single-content" style="padding-top:20px;">

@@ -29,6 +29,7 @@ foreach ($blog_files as $file) {
             'url' => $slug,   // clean URL without .php
             'title' => ucwords(str_replace('-', ' ', $slug)),
             'description' => '',
+            'image' => '',
             'date' => filemtime($file)
         ];
 
@@ -43,7 +44,14 @@ foreach ($blog_files as $file) {
                     $blog['description'] = $schema['description'];
                 if (!empty($schema['datePublished']))
                     $blog['date'] = strtotime($schema['datePublished']);
+                if (!empty($schema['image']))
+                    $blog['image'] = $schema['image'];
             }
+        }
+
+        // Fallback: extract featured image from HTML if not found in schema
+        if (empty($blog['image']) && preg_match('/cmt-post-featured">\s*<img[^>]+src="([^"]+)"/s', $content, $m)) {
+            $blog['image'] = $m[1];
         }
 
         // Fallback title from <title> if still empty/basic
@@ -338,6 +346,13 @@ $paginated_blogs = array_slice($blogs, $offset, $limit);
                     <?php if (!empty($paginated_blogs)): ?>
                         <?php foreach ($paginated_blogs as $value): ?>
                             <article class="karma-blog-card">
+                                <?php if (!empty($value->image)): ?>
+                                <a href="<?php echo $value->url; ?>">
+                                    <div class="karma-blog-image">
+                                        <img src="<?php echo htmlspecialchars($value->image); ?>" alt="<?php echo htmlspecialchars($value->title); ?>" loading="lazy">
+                                    </div>
+                                </a>
+                                <?php endif; ?>
                                 <div class="karma-blog-content">
                                     <div class="mb-2">
                                         <span class="karma-category-badge" style="position: static; display: inline-block; background: #00b2e3; color: #fff; padding: 4px 12px; border-radius: 4px; font-size: 11px; font-weight: 700; text-transform: uppercase;">

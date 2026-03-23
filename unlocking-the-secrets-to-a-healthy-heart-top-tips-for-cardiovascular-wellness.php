@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "The Heart of the Matter: Expert Tips for Lifelong Cardiovascular Excellence",
       "description": "A clinical roadmap for cardiac prevention in Kenya, addressing hypertension, dyslipidemia, and metabolic risk factors at LifeCare Hospitals.",
-      "image": "/blog/img/images/Z5YuVeJY1Rg7avHu.webp",  
+      "image": "img/images/Z5YuVeJY1Rg7avHu.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Cardiology Board",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/Z5YuVeJY1Rg7avHu.webp"
+                                            src="img/images/Z5YuVeJY1Rg7avHu.webp"
                                             alt="Unlocking the Secrets to a Healthy Heart Top Tips for Cardiovascular Wellness">
                                     </div>
                                 </div>

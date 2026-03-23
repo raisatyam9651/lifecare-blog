@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Could Your Daily Routine Be Triggering Asthma Attacks?",
       "description": "An exploration of everyday factors that can worsen asthma and practical tips for creating an asthma-friendly environment.",
-      "image": "/blog/img/images/GLQCJIWxDcE6RPZU.webp",  
+      "image": "img/images/GLQCJIWxDcE6RPZU.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Respiratory Team",
@@ -157,7 +157,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/GLQCJIWxDcE6RPZU.webp"
+                                            src="img/images/GLQCJIWxDcE6RPZU.webp"
                                             alt="Managing Asthma Triggers">
                                     </div>
                                 </div>

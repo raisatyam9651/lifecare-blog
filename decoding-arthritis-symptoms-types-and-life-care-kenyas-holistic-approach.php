@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Decoding Arthritis: Symptoms, Types, and LifeCare's Holistic Approach",
       "description": "An expert exploration of arthritis, focusing on early detection, common varieties, and the multidisciplinary treatment plans at LifeCare Hospitals Kenya.",
-      "image": "/blog/img/images/nMQ3Z96hvETPqYZ5.webp",  
+      "image": "img/images/nMQ3Z96hvETPqYZ5.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Orthopedic Team",
@@ -157,7 +157,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/nMQ3Z96hvETPqYZ5.webp"
+                                            src="img/images/nMQ3Z96hvETPqYZ5.webp"
                                             alt="Orthopedic Care for Arthritis at LifeCare">
                                     </div>
                                 </div>

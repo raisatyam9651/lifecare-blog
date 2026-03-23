@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Diabetes Management: Practical Tips for Managing Blood Sugar Levels",
       "description": "A comprehensive guide to managing diabetes through nutrition, physical activity, and consistent monitoring, supported by the clinical expertise of LifeCare Hospitals.",
-      "image": "/blog/img/images/NAaIWKtXSsqVX6yv.webp",  
+      "image": "img/images/NAaIWKtXSsqVX6yv.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Nutrition Team",
@@ -157,7 +157,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/NAaIWKtXSsqVX6yv.webp"
+                                            src="img/images/NAaIWKtXSsqVX6yv.webp"
                                             alt="Comprehensive Diabetes Management Guide">
                                     </div>
                                 </div>

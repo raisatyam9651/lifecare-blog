@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Fueling Your Heart: A Kenyan Guide to Healthy Eating",
       "description": "A deep dive into how traditional Kenyan foods can support cardiovascular health, offering practical advice and nutritional insights from the experts at LifeCare Hospitals.",
-      "image": "/blog/img/images/ZLZBgh82MK8pUsPINN58C.jpg",  
+      "image": "img/images/ZLZBgh82MK8pUsPINN58C.jpg",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Nutrition Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/ZLZBgh82MK8pUsPINN58C.jpg"
+                                            src="img/images/ZLZBgh82MK8pUsPINN58C.jpg"
                                             alt="Traditional Kenyan Foods for Heart Health">
                                     </div>
                                 </div>

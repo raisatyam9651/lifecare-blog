@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "The Silent Sentinel: Understanding Hepatitis and Liver Disease Management in Kenya",
       "description": "A clinical review of hepatobiliary health, addressing viral hepatitis prevalence, NAFLD/NASH in the Kenyan context, and liver screening protocols at LifeCare Hospitals.",
-      "image": "/blog/img/images/18ZQVEVB9DBUExqP.webp",  
+      "image": "img/images/18ZQVEVB9DBUExqP.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Hepatology Board",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/18ZQVEVB9DBUExqP.webp"
+                                            src="img/images/18ZQVEVB9DBUExqP.webp"
                                             alt="Liver Health Matters Understanding Hepatitis and Liver Disease">
                                     </div>
                                 </div>

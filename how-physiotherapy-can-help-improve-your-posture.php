@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Stand Tall: How Physiotherapy Corrects Posture and Relieves Pain",
       "description": "Explaining the vital role of physiotherapy in identifying postural imbalances, strengthening supporting muscles, and providing ergonomic guidance for a pain-free life, by LifeCare Hospitals Kenya.",
-      "image": "/blog/img/images/yh2j8LsyNU9Jm05h.webp",  
+      "image": "img/images/yh2j8LsyNU9Jm05h.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Physiotherapy Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/yh2j8LsyNU9Jm05h.webp"
+                                            src="img/images/yh2j8LsyNU9Jm05h.webp"
                                             alt="Physiotherapy for Posture Correction">
                                     </div>
                                 </div>

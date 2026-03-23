@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "4 Easy Lifestyle Changes to Help Manage Your COPD",
       "description": "Comprehensive guide on managing COPD through lifestyle changes, nutrition, exercise, and mental health support.",
-      "image": "/blog/img/images/a4CRemtbufRtqN2w.webp",  
+      "image": "img/images/a4CRemtbufRtqN2w.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Hospitals Respiratory Department",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/a4CRemtbufRtqN2w.webp"
+                                            src="img/images/a4CRemtbufRtqN2w.webp"
                                             alt="4 Easy Lifestyle Changes to Help Manage Your COPD">
                                     </div>
                                 </div>

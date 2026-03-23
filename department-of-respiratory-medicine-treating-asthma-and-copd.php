@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Department of Respiratory Medicine: Advanced Care for Asthma and COPD",
       "description": "A clinical overview of respiratory health services at LifeCare Hospitals, detailing diagnostic technologies like spirometry and therapeutic approaches for obstructive lung diseases in Kenya.",
-      "image": "/blog/img/images/l7GlaiBFIke6WZkr.webp",  
+      "image": "img/images/l7GlaiBFIke6WZkr.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Respiratory Medicine Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/l7GlaiBFIke6WZkr.webp"
+                                            src="img/images/l7GlaiBFIke6WZkr.webp"
                                             alt="Department of Respiratory Medicine Asthma and COPD">
                                     </div>
                                 </div>

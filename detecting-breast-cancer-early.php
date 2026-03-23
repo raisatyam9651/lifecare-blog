@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Detecting Breast Cancer Early: The Gold Standard for Women's Health",
       "description": "A comprehensive clinical and awareness guide on breast cancer screening, detailing self-examination techniques, radiological diagnostics (mammography/ultrasound), and the importance of early intervention in Kenya.",
-      "image": "/blog/img/images/kiFymFZak1GwQlXu.webp",  
+      "image": "img/images/kiFymFZak1GwQlXu.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Women's Health Board",
@@ -173,7 +173,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/kiFymFZak1GwQlXu.webp"
+                                            src="img/images/kiFymFZak1GwQlXu.webp"
                                             alt="Detecting Breast Cancer Early Saves Lives">
                                     </div>
                                 </div>

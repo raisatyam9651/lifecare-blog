@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Proactive Health: Why Preventive Care is Essential for Your Future",
       "description": "Explaining the vital role of preventive healthcare in maintaining physical and mental vitality, the types of essential screenings, and the comprehensive wellness programs offered by LifeCare Hospitals Kenya.",
-      "image": "/blog/img/images/kfAJ77yzHvu9Y3mS.webp",  
+      "image": "img/images/kfAJ77yzHvu9Y3mS.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Wellness Team",
@@ -111,7 +111,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/kfAJ77yzHvu9Y3mS.webp"
+                                            src="img/images/kfAJ77yzHvu9Y3mS.webp"
                                             alt="Preventive Health and Wellness Checkups">
                                     </div>
                                 </div>

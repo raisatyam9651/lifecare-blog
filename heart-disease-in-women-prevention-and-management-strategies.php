@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "A Woman's Heart: Unique Risks, Subtle Symptoms, and Prevention Strategies",
       "description": "Highlighting the critical differences in how heart disease affects women compared to men, including atypical symptoms, female-specific risk factors, and proactive heart care offered by LifeCare Hospitals Kenya.",
-      "image": "/blog/img/images/YAqL04qwqPf6GS2W.webp",  
+      "image": "img/images/YAqL04qwqPf6GS2W.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Cardiology Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/YAqL04qwqPf6GS2W.webp"
+                                            src="img/images/YAqL04qwqPf6GS2W.webp"
                                             alt="Heart Health for Women in Kenya">
                                     </div>
                                 </div>

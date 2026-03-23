@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Addressing Hunger and Malnutrition: Global Efforts on World Food Day",
       "description": "An in-depth look at the state of global hunger and the medical interventions required to combat malnutrition, coinciding with World Food Day.",
-      "image": "/blog/img/images/1dEihK0xRf7YYao1.webp",  
+      "image": "img/images/1dEihK0xRf7YYao1.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Hospitals Public Health Team",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/1dEihK0xRf7YYao1.webp"
+                                            src="img/images/1dEihK0xRf7YYao1.webp"
                                             alt="Addressing Hunger and Malnutrition Global Efforts">
                                     </div>
                                 </div>

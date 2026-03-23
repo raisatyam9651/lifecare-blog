@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Deadly Killers at Our Fingertips: Examining High-Touch Surfaces and Pathogens",
       "description": "An investigation into how germs spread via everyday surfaces and the advanced infection control measures implemented at LifeCare Hospitals.",
-      "image": "/blog/img/images/542RpKWh9bveWTEY.webp",  
+      "image": "img/images/542RpKWh9bveWTEY.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Safety Team",
@@ -157,7 +157,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/542RpKWh9bveWTEY.webp"
+                                            src="img/images/542RpKWh9bveWTEY.webp"
                                             alt="Microbial Testing and Infection Control">
                                     </div>
                                 </div>

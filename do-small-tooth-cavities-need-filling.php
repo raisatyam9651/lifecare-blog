@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Do Small Tooth Cavities Really Need Filling? The Case for Early Intervention",
       "description": "Explaining why treating even microscopic cavities early is essential for preserving tooth structure and avoiding more complex dental treatments in the future.",
-      "image": "/blog/img/images/YGOVerV0rAy8X0w8.webp",  
+      "image": "img/images/YGOVerV0rAy8X0w8.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Dental Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/YGOVerV0rAy8X0w8.webp"
+                                            src="img/images/YGOVerV0rAy8X0w8.webp"
                                             alt="Early Detection of Tooth Cavities">
                                     </div>
                                 </div>

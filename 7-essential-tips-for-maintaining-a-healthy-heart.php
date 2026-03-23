@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "7 Essential Tips for Maintaining a Healthy Heart",
       "description": "Expert advice from LifeCare Hospitals Kenya on maintaining peak cardiovascular health through diet, lifestyle, and preventive care.",
-      "image": "/blog/img/images/yedhqOqTXfXf0CxG.webp",  
+      "image": "img/images/yedhqOqTXfXf0CxG.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Hospitals Cardiology Department",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/yedhqOqTXfXf0CxG.webp"
+                                            src="img/images/yedhqOqTXfXf0CxG.webp"
                                             alt="7 Essential Tips for Maintaining a Healthy Heart">
                                     </div>
                                 </div>

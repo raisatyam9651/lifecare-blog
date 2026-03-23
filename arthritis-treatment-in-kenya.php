@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Arthritis Treatment in Kenya: Your Guide to Pain-Free Life",
       "description": "A comprehensive look at arthritis types, symptoms, and the latest medical and surgical treatment options available in Kenya.",
-      "image": "/blog/img/images/qnDkOpevLtl7M2ES.webp",  
+      "image": "img/images/qnDkOpevLtl7M2ES.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Orthopedic Specialist Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/qnDkOpevLtl7M2ES.webp"
+                                            src="img/images/qnDkOpevLtl7M2ES.webp"
                                             alt="Arthritis Treatment in Kenya Guide">
                                     </div>
                                 </div>

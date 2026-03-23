@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Safeguarding Childhood: The Absolute Significance of Immunization in Kenya",
       "description": "A clinical roadmap for pediatric immunology, addressing the impact of vaccines on public health, the KEPI schedule, and evidence-based global standards at LifeCare Hospitals.",
-      "image": "/blog/img/images/0DaomVgAVRaTwaKR.webp",  
+      "image": "img/images/0DaomVgAVRaTwaKR.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Pediatric Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/0DaomVgAVRaTwaKR.webp"
+                                            src="img/images/0DaomVgAVRaTwaKR.webp"
                                             alt="Safeguarding Childhood The Significance of Immunization">
                                     </div>
                                 </div>

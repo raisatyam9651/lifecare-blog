@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Germs Are Everywhere: Practical Steps to Protect Your Family",
       "description": "An essential guide to understanding how germs spread and the most effective ways to prevent infection, highlighting hygiene, vaccination, and professional health advice from LifeCare Hospitals.",
-      "image": "/blog/img/images/jeiivxiMVpQ6ISMV.webp",  
+      "image": "img/images/jeiivxiMVpQ6ISMV.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Healthcare Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/jeiivxiMVpQ6ISMV.webp"
+                                            src="img/images/jeiivxiMVpQ6ISMV.webp"
                                             alt="Protecting Yourself from Invisible Germs">
                                     </div>
                                 </div>

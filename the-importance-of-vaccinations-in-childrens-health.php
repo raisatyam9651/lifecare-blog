@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Shielding the Brave: The Vital Importance of Childhood Vaccinations in Kenya",
       "description": "An investigative review into pediatric immunization frameworks, discussing vaccine-preventable diseases, herd immunity, and the KEPI vaccination schedule at LifeCare Hospitals.",
-      "image": "/blog/img/images/xHaPb1P0RGanCKzK.webp",  
+      "image": "img/images/xHaPb1P0RGanCKzK.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Clinical Immunization Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/xHaPb1P0RGanCKzK.webp"
+                                            src="img/images/xHaPb1P0RGanCKzK.webp"
                                             alt="The Importance of Vaccinations in Children's Health">
                                     </div>
                                 </div>

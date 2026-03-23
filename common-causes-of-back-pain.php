@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Common Causes of Back Pain",
       "description": "An expert guide to understanding back pain, its common triggers, and the various orthopedic and physiotherapy treatments available.",
-      "image": "/blog/img/images/HFX3MeLGFoMcr1lt.webp",  
+      "image": "img/images/HFX3MeLGFoMcr1lt.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Orthopedic Team",
@@ -157,7 +157,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/HFX3MeLGFoMcr1lt.webp"
+                                            src="img/images/HFX3MeLGFoMcr1lt.webp"
                                             alt="Orthopedic Care for Back Pain">
                                     </div>
                                 </div>

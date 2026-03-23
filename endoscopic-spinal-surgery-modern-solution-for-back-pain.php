@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Endoscopic Spinal Surgery: A Minimally Invasive Breakthrough for Back Pain",
       "description": "An in-depth clinical guide to endoscopic spinal procedures at LifeCare Hospitals, detailing the technology, surgical advantages, patient selection criteria, and recovery expectations in Kenya.",
-      "image": "/blog/img/images/o7Lrr8hOuVxLPXy2.webp",  
+      "image": "img/images/o7Lrr8hOuVxLPXy2.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Spine & Orthopedic Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/o7Lrr8hOuVxLPXy2.webp"
+                                            src="img/images/o7Lrr8hOuVxLPXy2.webp"
                                             alt="Endoscopic Spinal Surgery Modern Solution for Back Pain">
                                     </div>
                                 </div>

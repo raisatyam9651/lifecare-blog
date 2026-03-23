@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Breast Cancer Awareness: Why Early Detection is the Ultimate Key to Survival",
       "description": "A deep clinical dive into breast cancer screening modalities in Kenya, exploring mammography vs. ultrasound, the importance of breast self-exams, and advanced oncology pathways at LifeCare Hospitals.",
-      "image": "/blog/img/images/APVpusOH47rrV0vb.webp",  
+      "image": "img/images/APVpusOH47rrV0vb.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Oncology Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/APVpusOH47rrV0vb.webp"
+                                            src="img/images/APVpusOH47rrV0vb.webp"
                                             alt="Breast Cancer Awareness Early Detection Saves Lives">
                                     </div>
                                 </div>

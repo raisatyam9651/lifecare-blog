@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "The Biology of Happiness: The Link Between Physical Activity and Mental Well-being",
       "description": "An interdisciplinary review of the neurochemical impacts of exercise on the human brain, focusing on anxiety reduction, depression management, and cognitive resilience at LifeCare Hospitals.",
-      "image": "/blog/img/images/B4ciKttWhiqm3kkj.webp",  
+      "image": "img/images/B4ciKttWhiqm3kkj.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Wellness & Physio Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/B4ciKttWhiqm3kkj.webp"
+                                            src="img/images/B4ciKttWhiqm3kkj.webp"
                                             alt="The Link Between Physical Activity and Mental Well-being">
                                     </div>
                                 </div>

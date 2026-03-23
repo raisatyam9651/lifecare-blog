@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Breathe with Ease: A Clinical Guide to Managing Asthma and COPD in Kenya",
       "description": "A comprehensive review of obstructive airway diseases, addressing environmental triggers, modern pharmacotherapy, and pulmonary function testing at LifeCare Hospitals.",
-      "image": "/blog/img/images/l7GlaiBFIke6WZkr.webp",  
+      "image": "img/images/l7GlaiBFIke6WZkr.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Respiratory Board",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/l7GlaiBFIke6WZkr.webp"
+                                            src="img/images/l7GlaiBFIke6WZkr.webp"
                                             alt="Managing Asthma and COPD How the Department of Respiratory Medicine Can Help">
                                     </div>
                                 </div>

@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Understanding Endometriosis: A Comprehensive Guide to Symptoms and Solutions",
       "description": "An in-depth look at endometriosis, its impact on women's lives, and the multi-layered approach to diagnosis and treatment offered at LifeCare Hospitals Kenya.",
-      "image": "/blog/img/images/Bc07IAdFMPq5ebON.webp",  
+      "image": "img/images/Bc07IAdFMPq5ebON.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Gynecology Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/Bc07IAdFMPq5ebON.webp"
+                                            src="img/images/Bc07IAdFMPq5ebON.webp"
                                             alt="Comprehensive Care for Endometriosis">
                                     </div>
                                 </div>

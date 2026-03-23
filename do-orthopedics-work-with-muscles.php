@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Do Orthopedics Work with Muscles? Demystifying Musculoskeletal Care",
       "description": "An insightful look into the scope of orthopedic medicine, explaining how specialists treat muscles, tendons, and ligaments alongside bones to improve overall mobility.",
-      "image": "/blog/img/images/m4Z8kjMJf5kOig9b.webp",  
+      "image": "img/images/m4Z8kjMJf5kOig9b.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Orthopedic Team",
@@ -157,7 +157,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/m4Z8kjMJf5kOig9b.webp"
+                                            src="img/images/m4Z8kjMJf5kOig9b.webp"
                                             alt="Comprehensive Orthopedic and Muscle Care">
                                     </div>
                                 </div>

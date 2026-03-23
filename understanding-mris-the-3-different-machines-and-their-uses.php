@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "The Spectrum of Magnetic Resonance: Understanding the 3 Main Types of MRI Machines",
       "description": "A clinical comparison of MRI hardware configurations, addressing Tesla strength, gantry design, and diagnostic specificity for neuro, ortho, and cardiac imaging at LifeCare Hospitals.",
-      "image": "/blog/img/images/2XEigc2n0wRZkt0y.webp",  
+      "image": "img/images/2XEigc2n0wRZkt0y.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Radiology Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/2XEigc2n0wRZkt0y.webp"
+                                            src="img/images/2XEigc2n0wRZkt0y.webp"
                                             alt="Understanding MRIs The 3 Different Machines and Their Uses">
                                     </div>
                                 </div>

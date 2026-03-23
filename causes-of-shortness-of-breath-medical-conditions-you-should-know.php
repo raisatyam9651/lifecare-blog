@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Causes of Shortness of Breath: Medical Conditions You Should Know",
       "description": "An informative guide explaining the various reasons behind shortness of breath, including respiratory and cardiovascular causes.",
-      "image": "/blog/img/images/wowSRGgXMLaof5tf.webp",  
+      "image": "img/images/wowSRGgXMLaof5tf.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Medical Team",
@@ -157,7 +157,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/wowSRGgXMLaof5tf.webp"
+                                            src="img/images/wowSRGgXMLaof5tf.webp"
                                             alt="Causes of Shortness of Breath">
                                     </div>
                                 </div>

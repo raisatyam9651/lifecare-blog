@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Effective Treatment for Osteoarthritis: A Holistic Approach at LifeCare",
       "description": "An in-depth look at the diverse treatment pathways for osteoarthritis offered at LifeCare Hospitals, focusing on pain management, improved joint function, and patient-centered care.",
-      "image": "/blog/img/images/33BoZcdZMEFLD3Un.webp",  
+      "image": "img/images/33BoZcdZMEFLD3Un.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Orthopedic Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/33BoZcdZMEFLD3Un.webp"
+                                            src="img/images/33BoZcdZMEFLD3Un.webp"
                                             alt="Comprehensive Care for Osteoarthritis">
                                     </div>
                                 </div>

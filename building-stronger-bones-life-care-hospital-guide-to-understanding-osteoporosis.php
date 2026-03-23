@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Building Stronger Bones: LifeCare Hospital's Guide to Understanding Osteoporosis",
       "description": "A comprehensive orthopedic guide on osteoporosis, focusing on bone density preservation, nutritional requirements, and preventive strategies for aging populations in Kenya.",
-      "image": "/blog/img/images/NmX1WEvzlDpoZOD2.webp",  
+      "image": "img/images/NmX1WEvzlDpoZOD2.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Orthopedic Department",
@@ -167,7 +167,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/NmX1WEvzlDpoZOD2.webp"
+                                            src="img/images/NmX1WEvzlDpoZOD2.webp"
                                             alt="Osteoporosis and Bone Health">
                                     </div>
                                 </div>

@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Why Post-Surgical Physiotherapy is Essential: The Science of Recovery",
       "description": "A clinical exploration of post-operative rehabilitative protocols at LifeCare Hospitals, detailing the physiological necessity of early mobilization, scar tissue modulation, and neuromuscular re-education in patient recovery.",
-      "image": "/blog/img/images/l3RVn4n2Ux7xowC6.webp",  
+      "image": "img/images/l3RVn4n2Ux7xowC6.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Rehabilitative Medicine Board",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/l3RVn4n2Ux7xowC6.webp"
+                                            src="img/images/l3RVn4n2Ux7xowC6.webp"
                                             alt="Why is Physiotherapy Important After Surgery">
                                     </div>
                                 </div>

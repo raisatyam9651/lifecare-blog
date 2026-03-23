@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "The Silent Filters: Optimizing Kidney Function Through Evidence-Based Lifestyle Adjustments",
       "description": "A clinical roadmap for renal preservation in Kenya, addressing hypertension, diabetes management, and nutritional strategies at LifeCare Hospitals.",
-      "image": "/blog/img/images/LfS7Fo8KMcY49jxj.webp",  
+      "image": "img/images/LfS7Fo8KMcY49jxj.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Nephrology Board",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/LfS7Fo8KMcY49jxj.webp"
+                                            src="img/images/LfS7Fo8KMcY49jxj.webp"
                                             alt="Optimizing Kidney Function Lifestyle Adjustments for Renal Health">
                                     </div>
                                 </div>

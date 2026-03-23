@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "A Bridge to Life: Understanding the Mechanics of Dialysis",
       "description": "A comprehensive guide explaining the physiological and technical process of dialysis, the machine's role as an artificial kidney, and the types of renal replacement therapy offered at LifeCare Hospitals Kenya.",
-      "image": "/blog/img/images/JIBeJGGtzoTmNzEM.webp",  
+      "image": "img/images/JIBeJGGtzoTmNzEM.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Renal Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/JIBeJGGtzoTmNzEM.webp"
+                                            src="img/images/JIBeJGGtzoTmNzEM.webp"
                                             alt="Kidney Dialysis Machine and Process">
                                     </div>
                                 </div>

@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Can Going to the Dentist Prevent Cavities? The Science of Prevention",
       "description": "A comprehensive analysis of preventive dentistry, detailing how professional cleanings, fluoride treatments, and early diagnosis at the dentist can proactively stop tooth decay.",
-      "image": "/blog/img/images/uFXMdEha0RoQSXzZ.webp",  
+      "image": "img/images/uFXMdEha0RoQSXzZ.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Dental Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/uFXMdEha0RoQSXzZ.webp"
+                                            src="img/images/uFXMdEha0RoQSXzZ.webp"
                                             alt="Dental Checkup and Cavity Prevention">
                                     </div>
                                 </div>

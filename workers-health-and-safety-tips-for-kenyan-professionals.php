@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/t4CRH1ptYODfly33.webp"
+                                            src="img/images/t4CRH1ptYODfly33.webp"
                                             alt="Workers Health and Safety Tips for Kenyan Professionals">
                                     </div>
                                 </div>

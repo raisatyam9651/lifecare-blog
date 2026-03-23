@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Early Signs of Hypertension: Why It's Known as the Silent Killer",
       "description": "A clinical examination of high blood pressure symptoms and silent progression markers, detailing the importance of screening and the physiological impact of chronic hypertension in Kenya.",
-      "image": "/blog/img/images/fLNgRTJHdvwqgjzX.webp",  
+      "image": "img/images/fLNgRTJHdvwqgjzX.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Cardiology Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/fLNgRTJHdvwqgjzX.webp"
+                                            src="img/images/fLNgRTJHdvwqgjzX.webp"
                                             alt="Early Signs of Hypertension the Silent Killer">
                                     </div>
                                 </div>

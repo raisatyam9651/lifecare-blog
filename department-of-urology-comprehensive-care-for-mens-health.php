@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Department of Urology: Advancing Men's Health through Specialized Care",
       "description": "An expert clinical overview of urological services at LifeCare Hospitals, focusing on male reproductive health, prostate management, and advanced surgical interventions in Kenya.",
-      "image": "/blog/img/images/r7Hvb1WFe5T4pzdX.webp",  
+      "image": "img/images/r7Hvb1WFe5T4pzdX.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Urology Department",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/r7Hvb1WFe5T4pzdX.webp"
+                                            src="img/images/r7Hvb1WFe5T4pzdX.webp"
                                             alt="Department of Urology Comprehensive Men's Health">
                                     </div>
                                 </div>

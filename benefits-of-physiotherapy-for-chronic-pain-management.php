@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Benefits of Physiotherapy for Chronic Pain Management",
       "description": "An exploration of how physiotherapy transforms the management of chronic pain, focusing on mobility, neural retraining, and non-pharmacological interventions.",
-      "image": "/blog/img/images/eRgQovKq4TBRZvJ7.webp",  
+      "image": "img/images/eRgQovKq4TBRZvJ7.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Physiotherapy and Rehab Team",
@@ -172,7 +172,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/eRgQovKq4TBRZvJ7.webp"
+                                            src="img/images/eRgQovKq4TBRZvJ7.webp"
                                             alt="Physiotherapy for Chronic Pain Management">
                                     </div>
                                 </div>

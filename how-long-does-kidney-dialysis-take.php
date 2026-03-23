@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "How Long Does Kidney Dialysis Take?",
       "description": "An indepth analysis of the temporal requirements for effective hemodialysis, outlining the relationship between treatment duration and patient outcomes in renal clinics.",
-      "image": "/blog/img/images/1BMl0ahSHHVzdHma.webp",  
+      "image": "img/images/1BMl0ahSHHVzdHma.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Renal Specialist Board",
@@ -164,7 +164,7 @@ if (!function_exists('base_url')) {
               <article class="post cmt-blog-single clearfix">
                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                   <div class="cmt-post-featured">
-                    <img width="1170" height="524" class="img-fluid" src="/blog/img/images/1BMl0ahSHHVzdHma.webp"
+                    <img width="1170" height="524" class="img-fluid" src="img/images/1BMl0ahSHHVzdHma.webp"
                       alt="Kidney Dialysis Treatment Session Timing">
                   </div>
                 </div>

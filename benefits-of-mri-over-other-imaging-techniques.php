@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Benefits of MRI Over Other Imaging Techniques",
       "description": "A comparative analysis of modern medical imaging, highlighting why MRI is the gold standard for soft tissue, neurological, and musculoskeletal diagnosis.",
-      "image": "/blog/img/images/wdr78rJMhKIHFXil.webp",  
+      "image": "img/images/wdr78rJMhKIHFXil.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Hospitals Radiology Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/wdr78rJMhKIHFXil.webp"
+                                            src="img/images/wdr78rJMhKIHFXil.webp"
                                             alt="Benefits of MRI Scanning Over Other Techniques">
                                     </div>
                                 </div>

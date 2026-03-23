@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Can Dialysis Cause Lower Blood Pressure?",
       "description": "An expert exploration of hemodynamics during renal replacement therapy, focusing on the causes, symptoms, and clinical management of low blood pressure during dialysis.",
-      "image": "/blog/img/images/dwwOJW3oRwJ0dUi7.webp",  
+      "image": "img/images/dwwOJW3oRwJ0dUi7.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Nephrology Specialist Board",
@@ -163,7 +163,7 @@ if (!function_exists('base_url')) {
               <article class="post cmt-blog-single clearfix">
                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                   <div class="cmt-post-featured">
-                    <img width="1170" height="524" class="img-fluid" src="/blog/img/images/dwwOJW3oRwJ0dUi7.webp"
+                    <img width="1170" height="524" class="img-fluid" src="img/images/dwwOJW3oRwJ0dUi7.webp"
                       alt="Dialysis and Low Blood Pressure">
                   </div>
                 </div>

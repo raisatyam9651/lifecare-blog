@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Brain Health: Protecting Your Cognitive Longevity",
       "description": "An in-depth guide on neurological well-being, focusing on prevention, diagnostic excellence, and lifestyle strategies for maintaining a sharp and healthy brain.",
-      "image": "/blog/img/images/LahRVaFAgXfquYkr.webp",  
+      "image": "img/images/LahRVaFAgXfquYkr.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Neurology Specialist Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/LahRVaFAgXfquYkr.webp"
+                                            src="img/images/LahRVaFAgXfquYkr.webp"
                                             alt="Brain Health and Neurology">
                                     </div>
                                 </div>

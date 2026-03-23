@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Demystifying the MRI: Everything You Need to Know Before Your Scan",
       "description": "A comprehensive walkthrough of the MRI scanning process at LifeCare Hospitals, explaining why it's used, how to prepare, and the advanced diagnostic benefits it offers.",
-      "image": "/blog/img/images/gj7mrfgfbocCMUfN.webp",  
+      "image": "img/images/gj7mrfgfbocCMUfN.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Diagnostics Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/gj7mrfgfbocCMUfN.webp"
+                                            src="img/images/gj7mrfgfbocCMUfN.webp"
                                             alt="Magnetic Resonance Imaging at LifeCare Hospitals">
                                     </div>
                                 </div>

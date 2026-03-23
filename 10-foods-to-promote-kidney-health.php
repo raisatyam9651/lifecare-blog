@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "10 Foods to Promote Kidney Health",
       "description": "An evidence-based nutritional guide outlining the physiological benefits of specific foods for renal preservation and chronic kidney disease management.",
-      "image": "/blog/img/images/U7r5VYHoPBYgnt2e.webp",  
+      "image": "img/images/U7r5VYHoPBYgnt2e.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Renal Nutrition Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
               <article class="post cmt-blog-single clearfix">
                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                   <div class="cmt-post-featured">
-                    <img width="1170" height="524" class="img-fluid" src="/blog/img/images/U7r5VYHoPBYgnt2e.webp"
+                    <img width="1170" height="524" class="img-fluid" src="img/images/U7r5VYHoPBYgnt2e.webp"
                       alt="10 Powerful Foods to Promote Kidney Health">
                   </div>
                 </div>

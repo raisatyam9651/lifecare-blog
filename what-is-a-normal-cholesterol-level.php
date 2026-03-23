@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Targeting Heart Health: A Guide to Interpreting Your Cholesterol Numbers",
       "description": "Providing a clear breakdown of ideal and high-risk cholesterol ranges for adults, explaining the significance of total cholesterol, HDL, LDL, and triglycerides in cardiovascular assessment by LifeCare Hospitals Kenya.",
-      "image": "/blog/img/images/eb5dEtlbH9C7uUcy.webp",  
+      "image": "img/images/eb5dEtlbH9C7uUcy.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Cardiology Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/eb5dEtlbH9C7uUcy.webp"
+                                            src="img/images/eb5dEtlbH9C7uUcy.webp"
                                             alt="Interpreting Blood Test Cholesterol Results">
                                     </div>
                                 </div>

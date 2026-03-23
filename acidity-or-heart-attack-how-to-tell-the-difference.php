@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Acidity or Heart Attack: How to Tell the Difference",
       "description": "A life-saving guide on distinguishing between common heartburn (acidity) and a life-threatening heart attack.",
-      "image": "/blog/img/images/RuK8ZbW1PcIcsGsc.webp",  
+      "image": "img/images/RuK8ZbW1PcIcsGsc.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Hospitals Emergency Department",
@@ -190,7 +190,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/RuK8ZbW1PcIcsGsc.webp"
+                                            src="img/images/RuK8ZbW1PcIcsGsc.webp"
                                             alt="Acidity or Heart Attack How to Tell the Difference">
                                     </div>
                                 </div>

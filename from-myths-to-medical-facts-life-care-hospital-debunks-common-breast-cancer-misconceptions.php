@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "From Myths to Medical Facts: Debunking Breast Cancer Misconceptions",
       "description": "An essential guide to understanding the reality of breast cancer, addressing common myths, and promoting the importance of early detection and professional medical advice at LifeCare Hospitals.",
-      "image": "/blog/img/images/eFzRHJSVWMwVzwHz.webp",  
+      "image": "img/images/eFzRHJSVWMwVzwHz.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Oncology Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/eFzRHJSVWMwVzwHz.webp"
+                                            src="img/images/eFzRHJSVWMwVzwHz.webp"
                                             alt="Debunking Breast Cancer Myths with Facts">
                                     </div>
                                 </div>

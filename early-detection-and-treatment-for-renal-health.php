@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Early Detection and Treatment: Your Guide to Renal Health",
       "description": "An expert overview of maintaining kidney health, recognizing the subtle signs of renal dysfunction, and the importance of early diagnostic testing at LifeCare Hospitals.",
-      "image": "/blog/img/images/j4Xkngh9oEqG2rOO.webp",  
+      "image": "img/images/j4Xkngh9oEqG2rOO.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Renal Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/j4Xkngh9oEqG2rOO.webp"
+                                            src="img/images/j4Xkngh9oEqG2rOO.webp"
                                             alt="Kidney Health and Renal Care">
                                     </div>
                                 </div>

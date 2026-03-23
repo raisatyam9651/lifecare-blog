@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Breaking the Silence: Destigmatizing Mental Health for Women in Kenya",
       "description": "A compassionate analysis of the psychological landscape for women in Kenya, addressing societal barriers, clinical markers for intervention, and the path to mental resilience at LifeCare Hospitals.",
-      "image": "/blog/img/images/TVNdXSUlUBTlASrQ.webp",  
+      "image": "img/images/TVNdXSUlUBTlASrQ.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Mental Wellness Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/TVNdXSUlUBTlASrQ.webp"
+                                            src="img/images/TVNdXSUlUBTlASrQ.webp"
                                             alt="Mental Health Breaking the Stigma Among Women">
                                     </div>
                                 </div>

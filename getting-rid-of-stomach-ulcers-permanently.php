@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Goodbye Ulcers: A Guide to Permanent Pain Relief and Healing",
       "description": "Explaining the vital role of medical intervention in curing stomach ulcers, focusing on H. pylori eradication, lifestyle modifications, and the expert care provided at LifeCare Hospitals.",
-      "image": "/blog/img/images/iUO5BOfgfeBjW5fc.webp",  
+      "image": "img/images/iUO5BOfgfeBjW5fc.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Gastroenterology Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/iUO5BOfgfeBjW5fc.webp"
+                                            src="img/images/iUO5BOfgfeBjW5fc.webp"
                                             alt="Gastroenterology Expert Consultation">
                                     </div>
                                 </div>

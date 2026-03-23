@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Fueling the Filter: The Critical Relationship Between Nutrition and Kidney Dialysis",
       "description": "A clinical roadmap for renal nutrition in Kenya, addressing the management of electrolytes, fluid balance, and metabolic complications in dialysis patients at LifeCare Hospitals.",
-      "image": "/blog/img/images/lUZ8fWoXM4Onx4yB.webp",  
+      "image": "img/images/lUZ8fWoXM4Onx4yB.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Renal Nutrition Board",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/lUZ8fWoXM4Onx4yB.webp"
+                                            src="img/images/lUZ8fWoXM4Onx4yB.webp"
                                             alt="Exploring the Surprising Link Between Diet and Kidney Dialysis">
                                     </div>
                                 </div>

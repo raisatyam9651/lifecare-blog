@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Behind the Chair: Demystifying Common Dental Procedures and What to Expect",
       "description": "A clinical overview of modern dentistry in Kenya, addressing patient anxiety, restorative techniques, and endodontic protocols at LifeCare Hospitals.",
-      "image": "/blog/img/images/B6fXdvkeJMCxtEAy.webp",  
+      "image": "img/images/B6fXdvkeJMCxtEAy.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Dental Board",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/B6fXdvkeJMCxtEAy.webp"
+                                            src="img/images/B6fXdvkeJMCxtEAy.webp"
                                             alt="Demystifying Dental Procedures Common Treatments and What to Expect">
                                     </div>
                                 </div>

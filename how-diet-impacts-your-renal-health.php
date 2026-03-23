@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Eating for Your Kidneys: The Power of Nutrition in Renal Health",
       "description": "Explaining the vital role of nutrition in maintaining kidney function, preventing renal issues, and managing chronic kidney disease (CKD) through specialized dietary advice from LifeCare Hospitals Kenya.",
-      "image": "/blog/img/images/ddND8Ewlmmx05Lex.webp",  
+      "image": "img/images/ddND8Ewlmmx05Lex.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Renal Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/ddND8Ewlmmx05Lex.webp"
+                                            src="img/images/ddND8Ewlmmx05Lex.webp"
                                             alt="Eating for Your Renal Health">
                                     </div>
                                 </div>

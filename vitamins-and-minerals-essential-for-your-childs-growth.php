@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Vitamins and Minerals: The Building Blocks of Your Child's Growth",
       "description": "A clinical pediatric nutrition guide exploring micronutrient requirements for childhood development, somatic growth markers, and nutritional strategies for optimal health in the Kenyan population.",
-      "image": "/blog/img/images/ruMKDB8UnfgLSH4a.webp",  
+      "image": "img/images/ruMKDB8UnfgLSH4a.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Pediatric Nutrition Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/ruMKDB8UnfgLSH4a.webp"
+                                            src="img/images/ruMKDB8UnfgLSH4a.webp"
                                             alt="Vitamins and Minerals Essential for Your Childs Growth">
                                     </div>
                                 </div>

@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Can Bad Dental Hygiene Make You Sick? Understanding the Oral-Systemic Link",
       "description": "A detailed clinical exploration of the connection between oral health and general wellness, highlighting the cardiovascular and respiratory risks of poor dental hygiene.",
-      "image": "/blog/img/images/i1II1Q5Mgnqaann4.webp",  
+      "image": "img/images/i1II1Q5Mgnqaann4.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Dental Department",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/i1II1Q5Mgnqaann4.webp"
+                                            src="img/images/i1II1Q5Mgnqaann4.webp"
                                             alt="Can Bad Dental Hygiene Make You Sick?">
                                     </div>
                                 </div>

@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Workplace Health and Safety: Essential Tips for the Kenyan Workforce",
       "description": "Comprehensive occupational health guide for Kenyan professionals, covering ergonomics, mental health at work, and industrial safety in observance of the World Day for Safety and Health at Work.",
-      "image": "/blog/img/images/sfpStL6vAVZFiTT5.webp",  
+      "image": "img/images/sfpStL6vAVZFiTT5.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Occupational Health Board",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/sfpStL6vAVZFiTT5.webp"
+                                            src="img/images/sfpStL6vAVZFiTT5.webp"
                                             alt="Health and Safety Tips for Kenyan Workers">
                                     </div>
                                 </div>

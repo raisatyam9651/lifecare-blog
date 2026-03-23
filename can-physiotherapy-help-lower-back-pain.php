@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Can Physiotherapy Help Lower Back Pain? Comprehensive Relief Strategies",
       "description": "An expert clinical guide detailing the role of physiotherapy in managing acute and chronic lower back pain, featuring therapeutic exercises, manual therapy, and preventative care in Kenya.",
-      "image": "/blog/img/images/iPefpI0Vgbk3apzz.webp",  
+      "image": "img/images/iPefpI0Vgbk3apzz.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare PT Department",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/iPefpI0Vgbk3apzz.webp"
+                                            src="img/images/iPefpI0Vgbk3apzz.webp"
                                             alt="Physiotherapy for Lower Back Pain">
                                     </div>
                                 </div>

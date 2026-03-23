@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "The Proactive Patient: Why a Yearly Doctor's Visit is Your Best Health Investment",
       "description": "Explaining the critical importance of routine medical examinations for maintaining long-term health, the role of age-specific screenings, and the comprehensive primary care services offered by LifeCare Hospitals Kenya.",
-      "image": "/blog/img/images/kfAJ77yzHvu9Y3mS.webp",  
+      "image": "img/images/kfAJ77yzHvu9Y3mS.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Wellness Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/kfAJ77yzHvu9Y3mS.webp"
+                                            src="img/images/kfAJ77yzHvu9Y3mS.webp"
                                             alt="Importance of Annual Medical Exams and Checkups">
                                     </div>
                                 </div>

@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Understanding Microbial Testing: The Science of Accurate Diagnosis",
       "description": "A clinical laboratory guide on microbiology in modern medicine, exploring culture methods, rapid diagnostic platforms, and the role of sensitivity testing in combating antibiotic resistance in Kenya.",
-      "image": "/blog/img/images/LDWw7Iiay29xCpaJ.webp",  
+      "image": "img/images/LDWw7Iiay29xCpaJ.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Clinical Laboratory Board",
@@ -164,7 +164,7 @@ if (!function_exists('base_url')) {
               <article class="post cmt-blog-single clearfix">
                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                   <div class="cmt-post-featured">
-                    <img width="1170" height="524" class="img-fluid" src="/blog/img/images/LDWw7Iiay29xCpaJ.webp"
+                    <img width="1170" height="524" class="img-fluid" src="img/images/LDWw7Iiay29xCpaJ.webp"
                       alt="Understanding the Basics of Microbial Testing in Healthcare">
                   </div>
                 </div>

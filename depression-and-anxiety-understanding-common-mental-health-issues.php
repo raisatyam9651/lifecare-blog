@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Understanding the Spectrum: A Comprehensive Guide to Depression and Anxiety in Kenya",
       "description": "A clinical overview of the two most common mental health conditions in Kenya, exploring diagnostic criteria, the neurobiology of mood disorders, and integrative treatment pathways at LifeCare Hospitals.",
-      "image": "/blog/img/images/miN1idLYrQUxuLOI.webp",  
+      "image": "img/images/miN1idLYrQUxuLOI.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Psychiatric Board",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/miN1idLYrQUxuLOI.webp"
+                                            src="img/images/miN1idLYrQUxuLOI.webp"
                                             alt="Depression and Anxiety Understanding Common Mental Health Issues">
                                     </div>
                                 </div>

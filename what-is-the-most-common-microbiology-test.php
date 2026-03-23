@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "What Is the Most Common Microbiology Test?",
       "description": "An analytical review of diagnostic microbiology, focusing on the prevalence of Urine Culture and Sensitivity testing and its role in modern clinical medicine.",
-      "image": "/blog/img/images/6MwWwd46wdw9IvNU.webp",  
+      "image": "img/images/6MwWwd46wdw9IvNU.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Laboratory Board",
@@ -168,7 +168,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/6MwWwd46wdw9IvNU.webp"
+                                            src="img/images/6MwWwd46wdw9IvNU.webp"
                                             alt="Clinical Microbiology Laboratory">
                                     </div>
                                 </div>

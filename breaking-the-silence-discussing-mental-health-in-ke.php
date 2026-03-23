@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Breaking the Silence: Mental Health in Kenya",
       "description": "An essential guide to mental health awareness in the Kenyan context, addressing cultural stigma, clinical symptoms, and the path to professional support.",
-      "image": "/blog/img/images/dBrPywPWjmEp6LDx.webp",  
+      "image": "img/images/dBrPywPWjmEp6LDx.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Mental Health & Counseling Board",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/dBrPywPWjmEp6LDx.webp"
+                                            src="img/images/dBrPywPWjmEp6LDx.webp"
                                             alt="Mental Health Awareness Kenya">
                                     </div>
                                 </div>

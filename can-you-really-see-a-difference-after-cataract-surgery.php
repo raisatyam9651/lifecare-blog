@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Can You Really See a Difference After Cataract Surgery? A Transforming Journey",
       "description": "A clinical overview of cataract surgery outcomes, detailing the immediate and long-term visual improvements, intraocular lens (IOL) options, and postoperative care in Kenya.",
-      "image": "/blog/img/images/fuyeRlaIsarfeQAY.webp",  
+      "image": "img/images/fuyeRlaIsarfeQAY.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Ophthalmology Board",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/fuyeRlaIsarfeQAY.webp"
+                                            src="img/images/fuyeRlaIsarfeQAY.webp"
                                             alt="Vision Improvements After Cataract Surgery">
                                     </div>
                                 </div>

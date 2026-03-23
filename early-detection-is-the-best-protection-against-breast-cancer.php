@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Early Detection: The Silent Hero in the Fight Against Breast Cancer",
       "description": "A clinical roadmap for breast health awareness in Kenya, covering screening modalities, diagnostic protocols, and the impact of early intervention on survival rates at LifeCare Hospitals.",
-      "image": "/blog/img/images/WmzenCtE4di06FKz.webp",  
+      "image": "img/images/WmzenCtE4di06FKz.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Oncology Board",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/WmzenCtE4di06FKz.webp"
+                                            src="img/images/WmzenCtE4di06FKz.webp"
                                             alt="Early Detection is the Best Protection Against Breast Cancer">
                                     </div>
                                 </div>

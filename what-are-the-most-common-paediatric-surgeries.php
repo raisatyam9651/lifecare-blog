@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "What Are the Most Common Paediatric Surgeries?",
       "description": "A clinical overview of frequent surgical procedures in children, detailing the indications, risks, and recovery phases within a modern pediatric hospital framework.",
-      "image": "/blog/img/images/UiTqy8slJFXARCHS.webp",  
+      "image": "img/images/UiTqy8slJFXARCHS.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Pediatric Surgical Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/UiTqy8slJFXARCHS.webp"
+                                            src="img/images/UiTqy8slJFXARCHS.webp"
                                             alt="Pediatric Surgical Care">
                                     </div>
                                 </div>

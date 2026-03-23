@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Empower Your Filters: A Practical Guide to Checking Your Kidney Health",
       "description": "Providing a roadmap for early renal screening, detailing the essential medical tests like GFR and ACR, and identifying the symptoms that warrant an immediate visit to a nephrologist at LifeCare Hospitals Kenya.",
-      "image": "/blog/img/images/p8WunVHK5wSzzHnC.webp",  
+      "image": "img/images/p8WunVHK5wSzzHnC.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Renal Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/p8WunVHK5wSzzHnC.webp"
+                                            src="img/images/p8WunVHK5wSzzHnC.webp"
                                             alt="Kidney Health Checkup and Screening">
                                     </div>
                                 </div>

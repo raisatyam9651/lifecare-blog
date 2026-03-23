@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Are Digital Dental X-Rays Dangerous? Facts & Safety",
       "description": "An objective look at the safety and efficacy of digital dental radiography, comparing radiation levels to everyday background exposure.",
-      "image": "/blog/img/images/WFDguKTegjNQer1X.webp",  
+      "image": "img/images/WFDguKTegjNQer1X.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Hospitals Dental Department",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/WFDguKTegjNQer1X.webp"
+                                            src="img/images/WFDguKTegjNQer1X.webp"
                                             alt="Are Digital Dental X-Rays Dangerous Safety and Facts">
                                     </div>
                                 </div>

@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Most Common Pediatric Medications: A Safety Guide for Kenyan Parents",
       "description": "A clinical pediatric pharmacology guide for parents, detailing medication safety, dosage calculations, common OTC versus prescription treatments, and pharmaceutical protocols at LifeCare Hospitals.",
-      "image": "/blog/img/images/o4mPrn9nTds6Cp0Z.webp",  
+      "image": "img/images/o4mPrn9nTds6Cp0Z.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Pediatric Board",
@@ -164,7 +164,7 @@ if (!function_exists('base_url')) {
               <article class="post cmt-blog-single clearfix">
                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                   <div class="cmt-post-featured">
-                    <img width="1170" height="524" class="img-fluid" src="/blog/img/images/o4mPrn9nTds6Cp0Z.webp"
+                    <img width="1170" height="524" class="img-fluid" src="img/images/o4mPrn9nTds6Cp0Z.webp"
                       alt="Most Common Pediatric Medications A Parents Guide">
                   </div>
                 </div>

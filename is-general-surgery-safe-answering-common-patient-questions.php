@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Demystifying the Operating Room: Is General Surgery Safe? Answering Your Top Questions",
       "description": "A deep dive into surgical safety protocols in Kenya, addressing patient anxiety, anesthesia management, and post-operative outcomes at LifeCare Hospitals.",
-      "image": "/blog/img/images/oV1oWcrRp8aCiBED.webp",  
+      "image": "img/images/oV1oWcrRp8aCiBED.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Surgical Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/oV1oWcrRp8aCiBED.webp"
+                                            src="img/images/oV1oWcrRp8aCiBED.webp"
                                             alt="Is General Surgery Safe Common Patient Questions Answered at LifeCare">
                                     </div>
                                 </div>

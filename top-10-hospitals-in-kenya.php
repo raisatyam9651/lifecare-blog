@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Top 10 Best Hospitals in Kenya: A Comprehensive Guide",
       "description": "Discover the Top 10 Best Hospitals in Kenya. From advanced medical care to leading specialists, LifeCare Hospitals ranks #1 in providing world-class and affordable multi-specialty healthcare across the country.",
-      "image": "/blog/img/images/zh4RtpotoDceI31x.webp",  
+      "image": "img/images/zh4RtpotoDceI31x.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Hospitals Policy Board",
@@ -227,7 +227,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/zh4RtpotoDceI31x.webp"
+                                            src="img/images/zh4RtpotoDceI31x.webp"
                                             alt="Best Hospitals in Kenya">
                                     </div>
                                 </div>

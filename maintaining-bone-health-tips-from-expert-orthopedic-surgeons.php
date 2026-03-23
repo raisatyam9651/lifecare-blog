@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Maintaining Bone Health: Expert Insights from Orthopedic Surgeons",
       "description": "A clinical orthopedic roadmap for skeletal health, detailing osteological nutrition, biomechanical optimization through exercise, and the diagnostic role of bone densitometry in Kenya.",
-      "image": "/blog/img/images/CdBmZXVB0LYTPHsm.webp",  
+      "image": "img/images/CdBmZXVB0LYTPHsm.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Orthopedic Board",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/CdBmZXVB0LYTPHsm.webp"
+                                            src="img/images/CdBmZXVB0LYTPHsm.webp"
                                             alt="Maintaining Bone Health Tips from Expert Orthopedic Surgeons">
                                     </div>
                                 </div>

@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "The Journey of Motherhood: A Comprehensive Guide to Healthy Pregnancy and Delivery",
       "description": "Providing expectant mothers with essential information on antenatal visits, nutrition during pregnancy, signs of labor, and the specialized maternity services at LifeCare Hospitals Kenya.",
-      "image": "/blog/img/images/7FfcSrRhKH05icHr.webp",  
+      "image": "img/images/7FfcSrRhKH05icHr.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Maternity Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/7FfcSrRhKH05icHr.webp"
+                                            src="img/images/7FfcSrRhKH05icHr.webp"
                                             alt="Maternal and Child Health Support">
                                     </div>
                                 </div>

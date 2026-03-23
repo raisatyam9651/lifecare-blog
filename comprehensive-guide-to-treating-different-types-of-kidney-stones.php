@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Comprehensive Guide to Treating Different Types of Kidney Stones",
       "description": "An in-depth look at the diverse nature of kidney stones and the modern urological interventions provided by LifeCare Hospitals.",
-      "image": "/blog/img/images/rWS1FbInx0987fgx.webp",  
+      "image": "img/images/rWS1FbInx0987fgx.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Urology Team",
@@ -157,7 +157,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/rWS1FbInx0987fgx.webp"
+                                            src="img/images/rWS1FbInx0987fgx.webp"
                                             alt="Kidney Stones Treatment and Care">
                                     </div>
                                 </div>

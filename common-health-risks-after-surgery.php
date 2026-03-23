@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Common Health Risks After Surgery",
       "description": "A comprehensive guide to understanding and minimizing post-operative risks for a successful surgical outcome.",
-      "image": "/blog/img/images/nxHJ7honhwaSrX5o.webp",  
+      "image": "img/images/nxHJ7honhwaSrX5o.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Surgical Team",
@@ -157,7 +157,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/nxHJ7honhwaSrX5o.webp"
+                                            src="img/images/nxHJ7honhwaSrX5o.webp"
                                             alt="Surgical Recovery and Risks">
                                     </div>
                                 </div>

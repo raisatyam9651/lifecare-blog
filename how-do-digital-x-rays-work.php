@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Digital Radiology Explained: The Evolution of Diagnostic X-Rays",
       "description": "An overview of digital radiography technology, comparing it to traditional film-based methods and highlighting the advantages in speed, safety, and image quality for patients at LifeCare Hospitals Kenya.",
-      "image": "/blog/img/images/Qa0JFCNC0Loh766e.webp",  
+      "image": "img/images/Qa0JFCNC0Loh766e.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Radiology Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/Qa0JFCNC0Loh766e.webp"
+                                            src="img/images/Qa0JFCNC0Loh766e.webp"
                                             alt="Science of Digital X-Ray Technology">
                                     </div>
                                 </div>

@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Fueling the Future: A Comprehensive Guide to Pediatric Nutrition in Kenya",
       "description": "A clinical roadmap for child nutrition, addressing developmental milestones, micronutrient requirements, and the prevention of metabolic disorders in children at LifeCare Hospitals.",
-      "image": "/blog/img/images/WH0uEorhC0diCiC6.webp",  
+      "image": "img/images/WH0uEorhC0diCiC6.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Pediatric Nutrition Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/WH0uEorhC0diCiC6.webp"
+                                            src="img/images/WH0uEorhC0diCiC6.webp"
                                             alt="Nutrition for Growing Bodies Healthy Eating for Kids">
                                     </div>
                                 </div>

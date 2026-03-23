@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Boosting Your Immune System: Traditional Kenyan Foods That Can Help",
       "description": "An exploration of Kenya's rich indigenous food heritage and its role in strengthening the human immune system through nutrient-dense traditional ingredients.",
-      "image": "/blog/img/images/gevqWX0H7ssLli1U.webp",  
+      "image": "img/images/gevqWX0H7ssLli1U.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Nutrition & Wellness Board",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
               <article class="post cmt-blog-single clearfix">
                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                   <div class="cmt-post-featured">
-                    <img width="1170" height="524" class="img-fluid" src="/blog/img/images/gevqWX0H7ssLli1U.webp"
+                    <img width="1170" height="524" class="img-fluid" src="img/images/gevqWX0H7ssLli1U.webp"
                       alt="Traditional Kenyan Foods for Immunity">
                   </div>
                 </div>

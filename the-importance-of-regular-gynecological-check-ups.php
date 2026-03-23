@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Empowering Women: The Vital Importance of Regular Gynecological Check-ups",
       "description": "A specialist clinical guide to women's reproductive health screenings in Kenya, covering cervical cancer prevention, hormonal health monitoring, and pelvic wellness at LifeCare Hospitals.",
-      "image": "/blog/img/images/fWzHwQSPgkKGHts0.webp",  
+      "image": "img/images/fWzHwQSPgkKGHts0.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Women's Health Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/fWzHwQSPgkKGHts0.webp"
+                                            src="img/images/fWzHwQSPgkKGHts0.webp"
                                             alt="The Importance of Regular Gynecological Check-ups">
                                     </div>
                                 </div>

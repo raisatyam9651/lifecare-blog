@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Taking Control: Managing Hypertension through Proactive Lifestyle Changes",
       "description": "An essential guide for those living with high blood pressure, detailing the most effective non-medical interventions like diet (DASH), stress reduction, and physical activity, by LifeCare Hospitals Kenya.",
-      "image": "/blog/img/images/glh7hNczh5oXhGQVrDZA5.jpg",  
+      "image": "img/images/glh7hNczh5oXhGQVrDZA5.jpg",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Cardiology Team",
@@ -126,7 +126,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/glh7hNczh5oXhGQVrDZA5.jpg"
+                                            src="img/images/glh7hNczh5oXhGQVrDZA5.jpg"
                                             alt="Monitoring and Managing Hypertension">
                                     </div>
                                 </div>

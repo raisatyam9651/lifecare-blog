@@ -42,7 +42,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Dialysis: Hope Over Fear—Debunking Common Kidney Misconceptions",
       "description": "A clinical review of hemodialysis and peritoneal dialysis in Kenya, addressing patient misconceptions, quality of life metrics, and renal replacement therapy facts at LifeCare Hospitals.",
-      "image": "/blog/img/images/xMzpG80x3UaM7O8M.webp",  
+      "image": "img/images/xMzpG80x3UaM7O8M.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Nephrology Board",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/xMzpG80x3UaM7O8M.webp"
+                                            src="img/images/xMzpG80x3UaM7O8M.webp"
                                             alt="Unraveling Myths Debunking Common Misconceptions About Kidney Dialysis">
                                     </div>
                                 </div>

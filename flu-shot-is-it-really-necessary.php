@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Flu Shot: Is It Really Necessary? Myths, Facts, and Life-Saving Benefits",
       "description": "An evidentiary clinical review of influenza vaccination, discussing the immunology of the flu shot, timing in the Kenyan climate, and the public health impact of seasonal immunization.",
-      "image": "/blog/img/images/SabZD6d5omiikAbO.webp",  
+      "image": "img/images/SabZD6d5omiikAbO.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Clinical Immunology Team",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/SabZD6d5omiikAbO.webp"
+                                            src="img/images/SabZD6d5omiikAbO.webp"
                                             alt="Flu Shot Vaccination for Immunity in Kenya">
                                     </div>
                                 </div>

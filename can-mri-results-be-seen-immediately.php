@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Can MRI Results Be Seen Immediately?",
       "description": "An insider's guide to the diagnostic workflow of Magnetic Resonance Imaging, explaining the timeline from scanning to final radiologist reporting.",
-      "image": "/blog/img/images/VidC1UVfJSi5lJff.webp",  
+      "image": "img/images/VidC1UVfJSi5lJff.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Radiology Specialist Board",
@@ -164,7 +164,7 @@ if (!function_exists('base_url')) {
               <article class="post cmt-blog-single clearfix">
                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                   <div class="cmt-post-featured">
-                    <img width="1170" height="524" class="img-fluid" src="/blog/img/images/VidC1UVfJSi5lJff.webp"
+                    <img width="1170" height="524" class="img-fluid" src="img/images/VidC1UVfJSi5lJff.webp"
                       alt="MRI Results and Reporting">
                   </div>
                 </div>

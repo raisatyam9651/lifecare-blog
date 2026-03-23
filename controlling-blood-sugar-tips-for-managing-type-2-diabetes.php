@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Controlling Blood Sugar: Expert Tips for Managing Type 2 Diabetes",
       "description": "A comprehensive clinical and lifestyle guide for individuals with Type 2 Diabetes, covering glucose monitoring, nutritional strategies, and medication adherence in the Kenyan context.",
-      "image": "/blog/img/images/iW6403zT1wGBWsJZ.webp",  
+      "image": "img/images/iW6403zT1wGBWsJZ.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Metabolic Health Team",
@@ -166,7 +166,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/iW6403zT1wGBWsJZ.webp"
+                                            src="img/images/iW6403zT1wGBWsJZ.webp"
                                             alt="Tips for Controlling Blood Sugar in Type 2 Diabetes">
                                     </div>
                                 </div>

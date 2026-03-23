@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Busting Myths About Pneumonia: World Pneumonia Day Edition",
       "description": "An educational clinical resource debunking common misconceptions about pneumonia, including transmission, prevention, and treatment protocols in Kenya.",
-      "image": "/blog/img/images/xYL1XThJfAR2yzsc.webp",  
+      "image": "img/images/xYL1XThJfAR2yzsc.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Respiratory Health Board",
@@ -176,7 +176,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/xYL1XThJfAR2yzsc.webp"
+                                            src="img/images/xYL1XThJfAR2yzsc.webp"
                                             alt="World Pneumonia Day Myths Buster">
                                     </div>
                                 </div>

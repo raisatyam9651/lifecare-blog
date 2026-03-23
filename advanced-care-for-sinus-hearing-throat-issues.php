@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Advanced Care for Sinus, Hearing, and Throat Issues",
       "description": "A detailed portal into modern Otorhinolaryngology (ENT) care, covering sinus surgery, hearing restoration, and throat health.",
-      "image": "/blog/img/images/vIhPxxVs8idfm0TX.webp",  
+      "image": "img/images/vIhPxxVs8idfm0TX.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Hospitals ENT Specialist Team",
@@ -177,7 +177,7 @@ if (!function_exists('base_url')) {
                             <article class="post cmt-blog-single clearfix">
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
-                                        <img width="1170" height="524" class="img-fluid" src="/blog/img/images/vIhPxxVs8idfm0TX.webp"
+                                        <img width="1170" height="524" class="img-fluid" src="img/images/vIhPxxVs8idfm0TX.webp"
                                             alt="Advanced ENT Care for Sinus Hearing and Throat">
                                     </div>
                                 </div>

@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "The Evolution of Healthcare in Kenya: The LifeCare Story",
       "description": "A deep dive into how LifeCare Hospitals has transformed the healthcare landscape in Kenya through commitment to technology, patient care, and regional expansion.",
-      "image": "/blog/img/images/l9TuI2vzBdM96zm1.webp",  
+      "image": "img/images/l9TuI2vzBdM96zm1.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Leadership Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/l9TuI2vzBdM96zm1.webp"
+                                            src="img/images/l9TuI2vzBdM96zm1.webp"
                                             alt="LifeCare Hospitals Medical Specialists">
                                     </div>
                                 </div>

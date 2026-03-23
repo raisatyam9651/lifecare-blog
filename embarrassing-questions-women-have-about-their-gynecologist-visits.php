@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "No More Shying Away: Common Gynae Questions Answered",
       "description": "Addressing the 'embarrassing' questions women often hesitate to ask their gynecologists, emphasizing the professional, sensitive, and supportive environment at LifeCare Hospitals.",
-      "image": "/blog/img/images/wNeCC1iEZbixiTxk.webp",  
+      "image": "img/images/wNeCC1iEZbixiTxk.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Gynecology Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/wNeCC1iEZbixiTxk.webp"
+                                            src="img/images/wNeCC1iEZbixiTxk.webp"
                                             alt="Professional Gynecological Consultation">
                                     </div>
                                 </div>

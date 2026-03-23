@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "The Ultimate Guide to Computed Tomography: Everything You Should Know About CT Scans",
       "description": "A comprehensive radiological review of CT scanning technology in Kenya, covering diagnostic applications, radiation safety, contrast media protocols, and patient preparation at LifeCare Hospitals.",
-      "image": "/blog/img/images/EYrxQH5OgHXRGOJz.webp",  
+      "image": "img/images/EYrxQH5OgHXRGOJz.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Radiology Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/EYrxQH5OgHXRGOJz.webp"
+                                            src="img/images/EYrxQH5OgHXRGOJz.webp"
                                             alt="Everything You Should Know About CT Scan">
                                     </div>
                                 </div>

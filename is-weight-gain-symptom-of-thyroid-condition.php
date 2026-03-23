@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Is Weight Gain a Symptom of a Thyroid Condition? The Science of Metabolism",
       "description": "An endocrine clinical guide on thyroid health, explaining the physiological link between thyroid hormone deficiency and metabolic rate, weight management, and diagnostic testing in Kenya.",
-      "image": "/blog/img/images/tt65M58FfiONb2T0.webp",  
+      "image": "img/images/tt65M58FfiONb2T0.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Endocrine Specialty Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/tt65M58FfiONb2T0.webp"
+                                            src="img/images/tt65M58FfiONb2T0.webp"
                                             alt="Thyroid and Weight Gain Symptom LifeCare">
                                     </div>
                                 </div>

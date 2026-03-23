@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Overcoming the Pain: A Guide to Endometriosis Treatment in Kenya",
       "description": "An in-depth look at the diagnostic and therapeutic landscape for endometriosis in Kenya, highlighting LifeCare Hospitals' multidisciplinary approach to managing pelvic pain and preserving fertility.",
-      "image": "/blog/img/images/GfjVVqwBrMnlFATv.webp",  
+      "image": "img/images/GfjVVqwBrMnlFATv.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Women's Health Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/GfjVVqwBrMnlFATv.webp"
+                                            src="img/images/GfjVVqwBrMnlFATv.webp"
                                             alt="Endometriosis Treatment and Consultation">
                                     </div>
                                 </div>

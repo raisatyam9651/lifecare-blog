@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Dialysis and Nutrition: What You Need to Know",
       "description": "An expert look at the critical role of nutrition for patients undergoing dialysis, featuring practical dietary tips from LifeCare Hospitals' renal specialists.",
-      "image": "/blog/img/images/fdsKDRjrmGl6LZu9.webp",  
+      "image": "img/images/fdsKDRjrmGl6LZu9.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Renal Team",
@@ -157,7 +157,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/fdsKDRjrmGl6LZu9.webp"
+                                            src="img/images/fdsKDRjrmGl6LZu9.webp"
                                             alt="Renal Care and Dialysis Support">
                                     </div>
                                 </div>

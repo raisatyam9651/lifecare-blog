@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Handwashing 101: A Basic Habit That Saves Lives",
       "description": "Essential guidance on proper handwashing techniques, the science of hygiene, and the role of clean hands in preventing the spread of infectious diseases, provided by LifeCare Hospitals Kenya.",
-      "image": "/blog/img/images/eQpzzsChzwCjXwfh.webp",  
+      "image": "img/images/eQpzzsChzwCjXwfh.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Hygiene Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/eQpzzsChzwCjXwfh.webp"
+                                            src="img/images/eQpzzsChzwCjXwfh.webp"
                                             alt="Handwashing and Preventive Hygiene">
                                     </div>
                                 </div>

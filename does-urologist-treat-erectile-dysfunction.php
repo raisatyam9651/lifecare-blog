@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Can a Urologist Help with Erectile Dysfunction? Expert Advice",
       "description": "An essential guide to the role of urologists in diagnosing and managing erectile dysfunction, highlighting the comprehensive and sensitive care provided at LifeCare Hospitals.",
-      "image": "/blog/img/images/OPH8j76dASkGcfaJ.webp",  
+      "image": "img/images/OPH8j76dASkGcfaJ.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Urology Team",
@@ -131,7 +131,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/OPH8j76dASkGcfaJ.webp"
+                                            src="img/images/OPH8j76dASkGcfaJ.webp"
                                             alt="Specialized Urology Care for Men's Health">
                                     </div>
                                 </div>

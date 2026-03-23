@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Beyond the Spectrum: A Guide to Autism Awareness and Support in Kenya",
       "description": "A clinical review of Autism Spectrum Disorder (ASD), focusing on early diagnostic markers, neuroplasticity, and interdisciplinary support pathways at LifeCare Hospitals.",
-      "image": "/blog/img/images/bSivrRTrM7RL3EK0.webp",  
+      "image": "img/images/bSivrRTrM7RL3EK0.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Pediatric & Neurology Board",
@@ -165,7 +165,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/bSivrRTrM7RL3EK0.webp"
+                                            src="img/images/bSivrRTrM7RL3EK0.webp"
                                             alt="Understanding Autism Signs Symptoms and Support">
                                     </div>
                                 </div>

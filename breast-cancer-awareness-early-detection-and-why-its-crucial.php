@@ -41,7 +41,7 @@ if (!function_exists('base_url')) {
       },
       "headline": "Breast Cancer Awareness: Early Detection and Why It’s Crucial",
       "description": "A comprehensive guide on the importance of early breast cancer detection, including screening guidelines and common symptoms for women in Kenya.",
-      "image": "/blog/img/images/3UoEXaiilT7rTMoN.webp",  
+      "image": "img/images/3UoEXaiilT7rTMoN.webp",  
       "author": {
         "@type": "Organization",
         "name": "LifeCare Oncology Department",
@@ -169,7 +169,7 @@ if (!function_exists('base_url')) {
                                 <div class="cmt-post-featured-wrapper cmt-featured-wrapper">
                                     <div class="cmt-post-featured">
                                         <img width="1170" height="524" class="img-fluid"
-                                            src="/blog/img/images/3UoEXaiilT7rTMoN.webp"
+                                            src="img/images/3UoEXaiilT7rTMoN.webp"
                                             alt="Breast Cancer Awareness and Early Detection">
                                     </div>
                                 </div>
