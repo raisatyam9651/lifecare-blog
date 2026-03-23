@@ -44,14 +44,17 @@ foreach ($blog_files as $file) {
                     $blog['description'] = $schema['description'];
                 if (!empty($schema['datePublished']))
                     $blog['date'] = strtotime($schema['datePublished']);
-                if (!empty($schema['image']))
-                    $blog['image'] = $schema['image'];
+                if (!empty($schema['image'])) {
+                    $img = is_array($schema['image']) ? $schema['image'][0] : $schema['image'];
+                    // Ensure the path is relative to the root (remove /blog/ if it exists)
+                    $blog['image'] = str_replace('/blog/', '/', $img);
+                }
             }
         }
 
         // Fallback: extract featured image from HTML if not found in schema
         if (empty($blog['image']) && preg_match('/cmt-post-featured">\s*<img[^>]+src="([^"]+)"/s', $content, $m)) {
-            $blog['image'] = $m[1];
+            $blog['image'] = str_replace('/blog/', '/', $m[1]);
         }
 
         // Fallback title from <title> if still empty/basic
@@ -168,16 +171,19 @@ $paginated_blogs = array_slice($blogs, $offset, $limit);
         .karma-blog-image {
             position: relative;
             width: 100%;
-            height: 260px;
+            height: 220px;
             overflow: hidden;
-            background: #eee;
+            background: #f0f4f5;
             border-radius: 8px 8px 0 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
 
         .karma-blog-image img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: contain;
             transition: transform 0.3s ease;
         }
 
