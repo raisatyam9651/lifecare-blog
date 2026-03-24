@@ -1,7 +1,12 @@
 {
   "permissions": {
     "allow": [
-      "Bash(grep -h 'cmt-post-featured' /Users/bp/Downloads/Lifecare-blog/*.php -A2)"
+      "Bash(grep -h 'cmt-post-featured' /Users/bp/Downloads/Lifecare-blog/*.php -A2)",
+      "Read(//Users/bp/Downloads/**)",
+      "Read(//Users/bp/Desktop/Hair Clinic Website /blog/**)"
+    ],
+    "additionalDirectories": [
+      "/Users/bp/Desktop/Hair Clinic Website /blog"
     ]
   }
 }
